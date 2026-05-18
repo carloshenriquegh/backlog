@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-05-18º.md",
+                "file": "i/intelbras-cam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-18º"
+              "title": "intelbras-cam"
             }
           }
         ]
@@ -84,13 +84,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-05-18º.md",
+                "file": "i/intelbras-cam.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2026-05-18º"
+              "title": "Sumário de intelbras-cam"
             }
           },
           {
@@ -209,8 +209,8 @@
   },
   "active": "b7756eb6354e4b98",
   "lastOpenFiles": [
-    "dailynote/2026-05-16º.md",
     "dailynote/2026-05-18º.md",
+    "dailynote/2026-05-16º.md",
     "a/abnt.md",
     "d/datas-aniversarios.md",
     "d/d4 (deprecated).md",
