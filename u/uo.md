@@ -35,7 +35,9 @@ Points Overview
 
 1. Equip the ==Fistblade== in the inventory.
 2. Double click in the ==book of Chivalry== > Open hotbar > Select all boxes.
-3. Install Interface Soberana
+3. Install ==Interface Soberana==.
+4. `Alt`+`P`, Click Status, Set the Strenght UP, Dex UP and Intelligence DOWN (Warrior fists dont scale with INT).
+5. 
 
 
 # Interface
