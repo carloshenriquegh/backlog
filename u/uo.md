@@ -11,9 +11,30 @@
 [UO outlands Zero to Hero 01 Character Creation](https://www.youtube.com/watch?v=3M1AzV7V4JM&list=PLEFK5yt2jC4Kl7KwCu3nHWFJQZi_4tQ2V)
 
 Custom Template
-
+Character Creation
+- Anatomy
+- Camping
+- Chivalry
+- Focus
+- Healing
+- Parrying
+- Tactics
 - Wrestling
-- Tatics
+
+
+Points Overview
+
+- Chivalry 120
+- Weapon 100 or 80
+- Tatics 100
+- Anatomy 80
+- Parrying 80
+- Healing 80
+- Focus 80 or 100
+- Magic Resist 80 or 0-100
+
+
+
 
 # Interface
 
