@@ -35,7 +35,7 @@ Points Overview
 
 1. Equip the ==Fistblade== in the inventory.
 2. Double click in the ==book of Chivalry== > Open hotbar > Select all boxes.
-3. 
+3. Install Interface Soberana
 
 
 # Interface
