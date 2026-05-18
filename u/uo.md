@@ -5,7 +5,15 @@
 
 # Progressão
 
+
+## 01 Character Creation
+
 [UO outlands Zero to Hero 01 Character Creation](https://www.youtube.com/watch?v=3M1AzV7V4JM&list=PLEFK5yt2jC4Kl7KwCu3nHWFJQZi_4tQ2V)
+
+Custom Template
+
+- Wrestling
+- Tatics
 
 # Interface
 
