@@ -9,3 +9,33 @@
 
 # Interface
 
+Tutorial — Update de LAYOUT: LAYOUT Soberano
+O que você vai fazer
+Substituir os arquivos de perfil (UI) do seu personagem pelos arquivos da UI Soberano.
+
+Passo a passo
+Localize a pasta do Ultima Online Outlands
+Abra o Explorador de Arquivos e navegue até:
+C:\Program Files (x86)\Ultima Online Outlands
+
+A pasta pode ter um nome ligeiramente diferente dependendo de onde você instalou o jogo, mas normalmente fica em Arquivos de Programas (x86).
+
+
+Navegue até a pasta de Profiles
+Dentro da pasta do Outlands, siga o caminho:
+Ultima Online Outlands → ClassicUO → Data → Profiles
+
+Encontre a pasta da sua conta e personagem
+Dentro de Profiles, você verá uma pasta com o nome da sua conta. Abra-a e depois abra a pasta UO Outlands, onde estará a pasta do personagem que deseja atualizar.
+Exemplo de caminho completo:
+C:\Program Files (x86)\Ultima Online Outlands\ClassicUO\Data\Profiles\SuaConta\UO Outlands\SeuPersonagem
+
+Cole os arquivos da UI Soberano
+Com a pasta do seu personagem aberta, cole os arquivos da UI Soberano que você recebeu diretamente nessa pasta.
+
+Se o sistema perguntar se deseja substituir os arquivos existentes, confirme clicando em Substituir.
+
+
+Pronto!
+Abra o jogo normalmente. A UI Soberano será carregada automaticamente para o personagem atualizado.
+https://drive.google.com/drive/folders/1kMc6WUYeU2QEPHtjj8JBfoTLvX_mE6fB?usp=sharing ARQUIVOS DA UI SOBERANO (a imagem 1 da postagem serve de referência aproxima de como sua pasta vai ficar e 2, é como ficar o layout)
