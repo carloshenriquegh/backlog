@@ -46,9 +46,3 @@ digite email e senha
 email padrão
 senha 
 @INTELBRAS padrão senha antiga a****ki
-
-18-05-26
-começo 00
-lixo as 6:40
-
-visao 8
