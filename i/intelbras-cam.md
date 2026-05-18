@@ -49,3 +49,4 @@ senha
 
 18-05-26 1:22
 parei as 3:43
+lixo as 6:40
