@@ -33,7 +33,9 @@ Points Overview
 - Focus 80 or 100
 - Magic Resist 80 or 0-100
 
-
+1. Equip the ==Fistblade== in the inventory.
+2. Double click in the ==book of Chivalry== > Open hotbar > Select all boxes.
+3. 
 
 
 # Interface
