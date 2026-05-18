@@ -48,3 +48,4 @@ senha
 @INTELBRAS padrão senha antiga a****ki
 
 18-05-26 1:22
+parei as 3:43
