@@ -6,7 +6,7 @@
 # Progressão
 
 
-## 01 Character Creation
+## 01/2 Character Creation
 
 [UO outlands Zero to Hero 01 Character Creation](https://www.youtube.com/watch?v=3M1AzV7V4JM&list=PLEFK5yt2jC4Kl7KwCu3nHWFJQZi_4tQ2V)
 
@@ -40,6 +40,12 @@ Points Overview
 5. `Alt`+`P`, Click skills, lock all the skills you dont selected previously in the character creation.
 6. Use `CRLT`+`scroll` to zoom in.
 
+
+# 03 Hotkeys
+
+1. Open Razor
+2. Go to hotkeys
+3. Enter Bandage, select `bandage self` and press one hotkey (Q for example)
 
 # Interface
 
