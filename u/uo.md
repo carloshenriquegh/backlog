@@ -46,7 +46,7 @@ Points Overview
 1. Open Razor
 2. Go to hotkeys
 3. Enter Bandage, select `bandage self` and press one hotkey (Q for example)
-
+4. Press `TAB` to enter `Attack Mode`
 # Interface
 
 Tutorial — Update de LAYOUT: LAYOUT Soberano
