@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "d/drakanthos.md",
+                "file": "i/inss.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "drakanthos"
+              "title": "inss"
             }
           }
         ]
@@ -84,13 +84,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "d/drakanthos.md",
+                "file": "i/inss.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de drakanthos"
+              "title": "Sumário de inss"
             }
           },
           {
@@ -209,8 +209,8 @@
   },
   "active": "b7756eb6354e4b98",
   "lastOpenFiles": [
-    "dailynote/2026-05-20º.md",
     "d/drakanthos.md",
+    "dailynote/2026-05-20º.md",
     "dailynote/2026-05-19º.md",
     "u/uo.md",
     "w/wtb.md",
