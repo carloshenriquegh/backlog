@@ -3,3 +3,4 @@
 fogueira
 ping
 
+bear: levatar pata = shift
