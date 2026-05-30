@@ -27,3 +27,5 @@ For armor i usually go for the ==armor+vit enchants, with dex on the gloves and 
 Finally for talents i like the ==left side of the tree, only using the last 2 points in the middle to get 20% chance of applying poisons from weapon skills==.
 
 ![](Screenshot_1.png)
+
+https://questlog.gg/farever/en/map
