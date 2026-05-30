@@ -203,14 +203,16 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "b7756eb6354e4b98",
   "lastOpenFiles": [
+    "dailynote/2026-05-30º.md",
+    "f/farever.md",
     "Screenshot_1.png",
     "dailynote/2026-05-29º.md",
-    "f/farever.md",
     "dailynote/2026-05-28º.md",
     "dailynote/2026-05-27º.md",
     "dailynote/2026-05-26º.md",
@@ -247,7 +249,6 @@
     "Pasted image 20250821044057.png",
     "Pasted image 20250821044044.png",
     "Pasted image 20250821044029.png",
-    "Pasted image 20250821044003.png",
     "z",
     "y",
     "x",
