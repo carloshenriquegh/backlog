@@ -37,7 +37,7 @@ all armory filter by type
 
 
 head. submarine torpedo helmet (v)
-neck. pendant of versality
+neck. pendant of versality (v)
 shoulders. Cheese-Covered Shoulderpads (v)
 chest. Gambeson of the Flying Ram 
 back. Reversible Bib of the Cheese Taster (v)
@@ -45,8 +45,8 @@ fists. Burden of the Abyss / Touch of Menas the Thaumaturge
 belt. Relic of the Four Hundred
 pants. Vesture of the Mussel Hunter (v)
 trincket. raclete pan (v)
-ring1. signet of the fighter
-ring2. signet of the fighter
+ring1. signet of the fighter (v)
+ring2. signet of the fighter (v)
 
 
 
