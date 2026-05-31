@@ -48,6 +48,6 @@ trincket. raclete pan (v)
 ring1. signet of the fighter (v)
 ring2. signet of the fighter (v)
 
-
-
+main weapon: pick (aoe), ratsar (single), horns (ranged)
+arsenal: cheese
 
