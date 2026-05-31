@@ -37,7 +37,7 @@ all armory filter by type
 
 
 head. submarine torpedo helmet (v)
-neck. pendant of versality (v)
+neck. pendant of adaptability (v) (tooltip in the website display wrong data!)
 shoulders. Cheese-Covered Shoulderpads (v)
 chest. Gambeson of the Flying Ram 
 back. Reversible Bib of the Cheese Taster (v)
