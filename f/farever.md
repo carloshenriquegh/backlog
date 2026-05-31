@@ -49,5 +49,5 @@ ring1. signet of the fighter (v)
 ring2. signet of the fighter (v)
 
 main weapon: pick (aoe), ratsar (single), horns (ranged)
-arsenal: cheese
+arsenal: thornlace (movespeed heal (meta)) or cheese moon (on crit healing aura)
 
