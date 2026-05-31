@@ -39,7 +39,7 @@ all armory filter by type
 head. submarine torpedo helmet (v)
 neck. pendant of adaptability (v) (tooltip in the website display wrong data!)
 shoulders. Cheese-Covered Shoulderpads (v)
-chest. Gambeson of the Flying Ram 
+chest. Gambeson of the Flying Ram (-)
 back. Reversible Bib of the Cheese Taster (v)
 fists. Burden of the Abyss / Touch of Menas the Thaumaturge
 belt. Relic of the Four Hundred
