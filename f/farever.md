@@ -34,3 +34,13 @@ https://metaforge.app/farever/database/armor/page/1?sub=Rogue&rarity=Rare&sortBy
 
 all armory filter by type
 (see the status)
+
+
+head. submarine torpedo helmet (v)
+neck. pendant of versality
+shoulders. Cheese-Covered Shoulderpads (v)
+chest. Gambeson of the Flying Ram 
+back. Reversible Bib of the Cheese Taster (v)
+
+
+
