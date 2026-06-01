@@ -51,3 +51,6 @@ ring2. signet of the fighter (v)
 main weapon: pick (aoe), ratsar (single), horns (ranged)
 arsenal: thornlace (movespeed heal (meta)) or cheese moon (on crit healing aura)
 
+# arsenal test
+
+100 + (30 + 5% crit + 2% crit) 
