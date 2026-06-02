@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "f/farever.md",
+                "file": "dailynote/2026-06-2º.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "farever"
+              "title": "2026-06-2º"
             }
           }
         ]
@@ -84,13 +84,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "f/farever.md",
+                "file": "dailynote/2026-06-2º.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de farever"
+              "title": "Sumário de 2026-06-2º"
             }
           },
           {
@@ -208,8 +208,9 @@
   },
   "active": "b7756eb6354e4b98",
   "lastOpenFiles": [
-    "dailynote/2026-06-1º.md",
     "f/farever.md",
+    "dailynote/2026-06-2º.md",
+    "dailynote/2026-06-1º.md",
     "dailynote/2026-05-31º.md",
     "dailynote/2026-05-30º.md",
     "Screenshot_1.png",
@@ -234,7 +235,6 @@
     "dailynote/2026-05-19º.md",
     "u/uo.md",
     "w/wtb.md",
-    "i/intelbras-cam.md",
     "news.blizzard.com/en-us/article/24267729",
     "news.blizzard.com/en-us/article",
     "news.blizzard.com/en-us",
