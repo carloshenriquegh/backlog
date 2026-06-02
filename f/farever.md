@@ -29,7 +29,7 @@ Finally for talents i like the ==left side of the tree, only using the last 2 po
 ![](Screenshot_1.png)
 
 https://questlog.gg/farever/en/map
-
+https://questlog.gg/farever/en/map
 https://metaforge.app/farever/database/armor/page/1?sub=Rogue&rarity=Rare&sortBy=subcategory
 
 all armory filter by type
