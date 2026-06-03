@@ -62,8 +62,7 @@ arsenal: thornlace (movespeed heal (meta)) or cheese moon (on crit healing aura)
 only send if profile is active
 1 as mouse button is pressed
 
-{HOLDMS:800}3
-only send if profile is active
-1 as mouse button is pressed
-
 {PRESS}{HOLDMS:800}3{RELEASE}3
+only send if profile is active
+Repeatdly while the button is down
+auto repeat delay 7999 (use the skill cooldown in miliseconds here)
