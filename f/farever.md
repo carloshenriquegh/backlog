@@ -68,3 +68,7 @@ Repeatdly while the button is down
 auto repeat delay 7999 (use the skill cooldown in miliseconds here)
 
 https://www.reddit.com/r/FareverGame/comments/1tgzt2c/companion_locations/
+
+anel > tocha
+giradao > espeto
+32 > adds
