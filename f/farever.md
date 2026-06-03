@@ -56,3 +56,14 @@ arsenal: thornlace (movespeed heal (meta)) or cheese moon (on crit healing aura)
 # arsenal test
 
 100 + (30 + 5% crit + 2% crit) 
+
+
+{PRESS}{HOLDMS:50}1{RELEASE}1
+only send if profile is active
+1 as mouse button is pressed
+
+{HOLDMS:800}3
+only send if profile is active
+1 as mouse button is pressed
+
+{PRESS}{HOLDMS:800}3{RELEASE}3
