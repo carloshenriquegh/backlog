@@ -69,5 +69,5 @@ auto repeat delay 7999 (use the skill cooldown in miliseconds here)
 
 https://www.reddit.com/r/FareverGame/comments/1tgzt2c/companion_locations/
 
-batidao > tocha >>> giradao > espeto >>> 37% > ads
+batidao > tocha >>> giradao x 2 > espeto >>> 37% bolinha > ads
 
