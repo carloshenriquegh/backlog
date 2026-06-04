@@ -71,3 +71,5 @@ https://www.reddit.com/r/FareverGame/comments/1tgzt2c/companion_locations/
 
 batidao > tocha >>> giradao x 2 > espeto >>> 37% bolinha > ads
 
+https://questlog.gg/farever/en/db/unit/OgreHuman_Z2W_Peasant_E
+
