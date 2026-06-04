@@ -75,3 +75,4 @@ https://questlog.gg/farever/en/db/unit/OgreHuman_Z2W_Peasant_E
 
 depois da terceira bola correr pra porta e dar E sem matar nenhum rato
 atraia o boss
+ puche o rato para a tocha na fase 3
