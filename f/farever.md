@@ -76,3 +76,10 @@ https://questlog.gg/farever/en/db/unit/OgreHuman_Z2W_Peasant_E
 depois da terceira bola correr pra porta e dar E sem matar nenhum rato
 atraia o boss
  puche o rato para a tocha na fase 3
+# fervor vs crit vs flaming weapon
+
+Fervor: This is a core stat that directly boosts your overall damage output. It increases your critical hit strength and scales your spell power, making it incredibly effective for both physical and magic classes against tough bosses.
+
+Flaming (Weapon): This is a rare weapon enchantment that adds a flat amount of fire damage to your attacks and applies a burning effect over time. It is excellent for early-game leveling and against enemies weak to fire. However, its effectiveness falls off when facing enemies with high fire resistance or immunity.
+
+Which should you choose? Choose Fervor if you are building for the endgame, as it provides consistent scaling and helps bypass enemy defenses.
