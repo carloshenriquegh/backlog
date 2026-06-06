@@ -86,7 +86,7 @@ Which should you choose? Choose Fervor if you are building for the endgame, as i
 
 # Food buffs
 
-Pumpkin pie
+==Pumpkin pie==
 +4 vit
 +20 fervor (all fervor bonus benefit rogue)
 
@@ -94,10 +94,13 @@ Recipe:
 Wheat (Azure farm located downside)
 Pumpkin (farmers)
 
-Dexterity potion
+==Dexterity potion==
 +6 dex for 1h
 
 Recipe:
 1x Vial per. pot (the guild trade npc)
 Glossy chitin (purple bee mepropolis farm)
 strange spores (plants in general)
+
+==Dexterity Scroll==
+
