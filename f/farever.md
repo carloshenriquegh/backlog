@@ -83,3 +83,21 @@ Fervor: This is a core stat that directly boosts your overall damage output. It 
 Flaming (Weapon): This is a rare weapon enchantment that adds a flat amount of fire damage to your attacks and applies a burning effect over time. It is excellent for early-game leveling and against enemies weak to fire. However, its effectiveness falls off when facing enemies with high fire resistance or immunity.
 
 Which should you choose? Choose Fervor if you are building for the endgame, as it provides consistent scaling and helps bypass enemy defenses.
+
+# Food buffs
+
+Pumpkin pie
++4 vit
++20 fervor (all fervor bonus benefit rogue)
+
+Recipe:
+Wheat (Azure farm located downside)
+Pumpkin (farmers)
+
+Dexterity potion
++6 dex for 1h
+
+Recipe:
+1x Vial per. pot (the guild trade npc)
+Glossy chitin (purple bee mepropolis farm)
+strange spores (plants in general)
