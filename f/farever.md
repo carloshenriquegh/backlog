@@ -106,3 +106,9 @@ strange spores (plants in general)
 
 curated by disc anu
 ![](Pasted%20image%2020260606030928.png)
+
+Standard rogue build 
+https://discordapp.com/channels/1324333007242526771/1505203633522999376/1512800588558237819
+
+3 pieces fervor + devote weapon is 62s faster
+
