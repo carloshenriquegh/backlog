@@ -113,3 +113,5 @@ https://discordapp.com/channels/1324333007242526771/1505203633522999376/15128005
 3 pieces fervor + devote weapon is 62s faster
 
 https://questlog.gg/farever/en
+
+![](Pasted%20image%2020260607173633.png)

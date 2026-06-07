@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-06-7º.md",
+                "file": "f/farever.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-7º"
+              "title": "farever"
             }
           }
         ]
@@ -84,13 +84,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-06-7º.md",
+                "file": "f/farever.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2026-06-7º"
+              "title": "Sumário de farever"
             }
           },
           {
@@ -209,8 +209,9 @@
   },
   "active": "b7756eb6354e4b98",
   "lastOpenFiles": [
-    "f/farever.md",
+    "Pasted image 20260607173633.png",
     "dailynote/2026-06-7º.md",
+    "f/farever.md",
     "dailynote/2026-06-6º.md",
     "Pasted image 20260606030928.png",
     "dailynote/2026-06-5º.md",
@@ -236,7 +237,6 @@
     "dailynote/2026-05-23º.md",
     "d/drakantos.md",
     "dailynote/2026-05-22º.md",
-    "dailynote/2026-05-21º.md",
     "news.blizzard.com/en-us/article/24267729",
     "news.blizzard.com/en-us/article",
     "news.blizzard.com/en-us",
