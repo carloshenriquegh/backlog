@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "f/farever.md",
+                "file": "i/imposto-renda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "farever"
+              "title": "imposto-renda"
             }
           }
         ]
@@ -84,13 +84,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "f/farever.md",
+                "file": "i/imposto-renda.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de farever"
+              "title": "Sumário de imposto-renda"
             }
           },
           {
@@ -209,13 +209,13 @@
   },
   "active": "b7756eb6354e4b98",
   "lastOpenFiles": [
-    "i/imposto-renda.md",
     "i/inss.md",
+    "f/farever.md",
+    "i/imposto-renda.md",
     "dailynote/2026-06-9º.md",
     "Pasted image 20260609053118.png",
     "Pasted image 20260609033912.png",
     "d/discord.md",
-    "f/farever.md",
     "dailynote/2026-06-8º.md",
     "c/condominio-caminhosdocerrado.md",
     "a/agenda25.md",
