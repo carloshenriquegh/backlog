@@ -76,6 +76,10 @@ arsenal: thornlace (movespeed heal (meta)) or cheese moon (on crit healing aura)
 | feet     | [Magic formula: Armor penetration](https://metaforge.app/farever/database/augments/magic-formula-armor-penetration)                                                                                                                                                                                                                 |
 | gloves   | [Magic formula: dexterity](https://metaforge.app/farever/database/augments/magic-formula-dexterity)                                                                                                                                                                                                                                 |
 
+```html
+
+
+```
 
 # arsenal test
 
