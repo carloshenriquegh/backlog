@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "d/discord.md",
+                "file": "f/farever.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "discord"
+              "title": "farever"
             }
           }
         ]
@@ -84,13 +84,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "d/discord.md",
+                "file": "f/farever.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de discord"
+              "title": "Sumário de farever"
             }
           },
           {
@@ -209,6 +209,7 @@
   },
   "active": "b7756eb6354e4b98",
   "lastOpenFiles": [
+    "d/discord.md",
     "f/farever.md",
     "dailynote/2026-06-9º.md",
     "dailynote/2026-06-8º.md",
@@ -237,7 +238,6 @@
     "dailynote/2026-05-24º.md",
     "p/poe2.md",
     "p/poe2 (deprecated).md",
-    "dailynote/2026-05-23º.md",
     "news.blizzard.com/en-us/article/24267729",
     "news.blizzard.com/en-us/article",
     "news.blizzard.com/en-us",
