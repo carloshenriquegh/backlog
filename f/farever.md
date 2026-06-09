@@ -262,3 +262,8 @@ https://discordapp.com/channels/1324333007242526771/1505203633522999376/15128005
 https://questlog.gg/farever/en
 
 ![](Pasted%20image%2020260607173633.png)
+
+# Regular x-mouse config
+
+![](Pasted%20image%2020260609033912.png)
+
