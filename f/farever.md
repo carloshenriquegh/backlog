@@ -77,8 +77,127 @@ arsenal: thornlace (movespeed heal (meta)) or cheese moon (on crit healing aura)
 | gloves   | [Magic formula: dexterity](https://metaforge.app/farever/database/augments/magic-formula-dexterity)                                                                                                                                                                                                                                 |
 
 ```html
+<html><head><style>body {
+  /* Reset spacing */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 
+  /* Global typography */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #333333;
 
+  /* Screen constraints & centering */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+
+  /* Visual backdrop */
+  background-color: #f9f9f9;
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #121212;
+  color: #e0e0e0;
+  border-radius: 8px;
+  overflow: hidden;
+  background-color: #1a1a1a;
+  color: #ffffff;
+  padding: 14px 16px;
+  border-bottom: 2px solid #333333;
+  padding: 12px 16px;
+  border-bottom: 1px solid #242424;
+  background-color: #1f1f1f;
+}
+
+}</style></head><body><table>
+<thead>
+<tr>
+<th>item</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>head</td>
+<td><a href="https://metaforge.app/farever/database/armor/submarine-torpedo-helmet" target="_blank">Submarine Torpedo Helmet</a></td>
+</tr>
+<tr>
+<td>neck</td>
+<td><a href="https://metaforge.app/farever/database/jewellery/necklace-of-fracture" target="_blank">Necklace of Frature</a> (crit) / <a href="https://metaforge.app/farever/database/jewellery/necklace-of-zeal" target="_blank">Necklace of Zeal</a> (fervor)</td>
+</tr>
+<tr>
+<td>shoulder</td>
+<td><a href="https://metaforge.app/farever/database/armor/cheese-covered-shoulderpads" target="_blank">Cheese-Covered Shoulderpads</a> (arpen) / <a href="https://metaforge.app/farever/database/armor/beewings" target="_blank">Beewings</a> (fervor)</td>
+</tr>
+<tr>
+<td>chest</td>
+<td><a href="https://metaforge.app/farever/database/armor/spirit-of-the-spelunker" target="_blank">Spirit of the Spelunker</a> / <a href="https://metaforge.app/farever/database/armor/gambeson-of-the-flying-ram" target="_blank">Gambeson of the flying Ram</a> (0.17)<br><a href="https://metaforge.app/farever/database/armor/jacket-of-the-last-pirate" target="_blank">Jacket of the Last Pirate</a> (placeholder)</td>
+</tr>
+<tr>
+<td>back</td>
+<td><a href="https://metaforge.app/farever/database/armor/reversible-bib-of-the-cheese-taster" target="_blank">Reversible Bib of the Cheese Taster</a></td>
+</tr>
+<tr>
+<td>gloves</td>
+<td><a href="https://metaforge.app/farever/database/armor/burden-of-the-abyss" target="_blank">Burden of the Abyss</a></td>
+</tr>
+<tr>
+<td>belt</td>
+<td><a href="https://metaforge.app/farever/database/armor/relic-of-the-four-hundred" target="_blank">Relic of the four Hundred</a></td>
+</tr>
+<tr>
+<td>pants</td>
+<td><a href="https://metaforge.app/farever/database/armor/silhouette-of-apix" target="_blank">Silhouette of Apix</a></td>
+</tr>
+<tr>
+<td>feet</td>
+<td><a href="https://metaforge.app/farever/database/armor/bleak-shells-knee-pads" target="_blank">Bleak Shell&#39;s Knee Pads</a></td>
+</tr>
+<tr>
+<td>trinket</td>
+<td><a href="https://metaforge.app/farever/database/jewellery/stone-of-cunning" target="_blank">stone of cunning</a></td>
+</tr>
+<tr>
+<td>ring1</td>
+<td><a href="https://metaforge.app/farever/database/jewellery/signet-of-the-fighter" target="_blank">Signet of Fighter</a> (craft) / <a href="https://metaforge.app/farever/database/jewellery/ring-of-fracture" target="_blank">Ring of Fracture</a> / <a href="https://metaforge.app/farever/database/jewellery/ring-of-zeal" target="_blank">Ring of Zeal</a></td>
+</tr>
+<tr>
+<td>ring2</td>
+<td>Signet of Fighter (craft) / Ring of Fracture / Ring of Zeal</td>
+</tr>
+<tr>
+<td>enchant</td>
+<td></td>
+</tr>
+<tr>
+<td>neck</td>
+<td><a href="https://metaforge.app/farever/database/recipes/recipe-temperedcutruby" target="_blank">Tempered cut ruby</a> +7 fervor +7 armor pen</td>
+</tr>
+<tr>
+<td>chest</td>
+<td><a href="https://metaforge.app/farever/database/augments/reinforced-bronze-plate" target="_blank">Reinforced Bronze Plate</a> +100 Armor +4 vitality</td>
+</tr>
+<tr>
+<td>ring1</td>
+<td><a href="https://metaforge.app/farever/database/recipes/recipe-temperedcutruby" target="_blank">Tempered cut ruby</a>  +7 fervor +7 armor pen</td>
+</tr>
+<tr>
+<td>ring2</td>
+<td><a href="https://metaforge.app/farever/database/recipes/recipe-temperedcutruby" target="_blank">Tempered cut ruby</a>  +7 fervor +7 armor pen</td>
+</tr>
+<tr>
+<td>feet</td>
+<td><a href="https://metaforge.app/farever/database/augments/magic-formula-armor-penetration" target="_blank">Magic formula: Armor penetration</a></td>
+</tr>
+<tr>
+<td>gloves</td>
+<td><a href="https://metaforge.app/farever/database/augments/magic-formula-dexterity" target="_blank">Magic formula: dexterity</a></td>
+</tr>
+</tbody>
+</table>
+</body></html>
 ```
 
 # arsenal test
