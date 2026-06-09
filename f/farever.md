@@ -267,3 +267,5 @@ https://questlog.gg/farever/en
 
 ![](Pasted%20image%2020260609033912.png)
 
+
+{WAITMS:250}{HOLDMS:200}{PRESS}1{RELEASE}1
