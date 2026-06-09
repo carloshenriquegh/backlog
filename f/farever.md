@@ -53,6 +53,20 @@ ring2. signet of the fighter (v)
 main weapon: pick (aoe), ratsar (single), horns (ranged)
 arsenal: thornlace (movespeed heal (meta)) or cheese moon (on crit healing aura)
 
+
+| head     | Submarine Torpedo Helmet                               |
+| -------- | ------------------------------------------------------ |
+| neck     | Necklace of Frature (crit) / Necklace of Zeal (fervor) |
+| shoulder | Cheese-Covered Shoulderpads (arpen) /                  |
+| chest    |                                                        |
+| back     |                                                        |
+| gloves   |                                                        |
+| belt     |                                                        |
+| pants    |                                                        |
+| trinket  |                                                        |
+| ring1    |                                                        |
+| ring2    |                                                        |
+
 # arsenal test
 
 100 + (30 + 5% crit + 2% crit) 
