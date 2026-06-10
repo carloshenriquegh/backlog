@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "i/imposto-renda.md",
+                "file": "f/farever.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "imposto-renda"
+              "title": "farever"
             }
           }
         ]
@@ -84,13 +84,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "i/imposto-renda.md",
+                "file": "f/farever.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de imposto-renda"
+              "title": "Sumário de farever"
             }
           },
           {
@@ -203,15 +203,14 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "b7756eb6354e4b98",
   "lastOpenFiles": [
+    "i/imposto-renda.md",
     "i/inss.md",
     "f/farever.md",
-    "i/imposto-renda.md",
     "dailynote/2026-06-9º.md",
     "Pasted image 20260609053118.png",
     "Pasted image 20260609033912.png",
