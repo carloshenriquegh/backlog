@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "f/farever.md",
+                "file": "dailynote/2026-06-10º.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "farever"
+              "title": "2026-06-10º"
             }
           }
         ]
@@ -84,13 +84,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "f/farever.md",
+                "file": "dailynote/2026-06-10º.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de farever"
+              "title": "Sumário de 2026-06-10º"
             }
           },
           {
@@ -203,14 +203,16 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "b7756eb6354e4b98",
   "lastOpenFiles": [
+    "f/farever.md",
+    "dailynote/2026-06-10º.md",
     "i/imposto-renda.md",
     "i/inss.md",
-    "f/farever.md",
     "dailynote/2026-06-9º.md",
     "Pasted image 20260609053118.png",
     "Pasted image 20260609033912.png",
@@ -238,7 +240,6 @@
     "a/tsete3.md",
     "a/teste2.md",
     "dailynote/2026-05-25º.md",
-    "dailynote/2026-05-24º.md",
     "news.blizzard.com/en-us/article/24267729",
     "news.blizzard.com/en-us/article",
     "news.blizzard.com/en-us",
