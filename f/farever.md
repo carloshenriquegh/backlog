@@ -278,3 +278,12 @@ initial setup
 
 shiv > gaping wound > shunpo
 ult > all chargin > shunpo
+
+# Nickname
+
+Avalanche to remain snow and the broken statues
+to remain the nerves of the cold steel to play darius with accuracy
+
+# Diary of the damned/diary of the metarmophosis
+
+13062026 **
