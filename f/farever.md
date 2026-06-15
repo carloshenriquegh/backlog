@@ -286,6 +286,6 @@ to remain the nerves of the cold steel to play darius with accuracy
 
 # Diary of the damned/diary of the metarmophosis
 
-20260613 *Death Mark* Me enviaram um vídeo com a demonstração do qual efetivo e devastador pode ser um amplificador de dano de 15% de todo o dano por alguns segundos. O que desconsiderei por completo. Eu ja deveria ter visto o obvio desde o início quando fiz o download do vídeo do anu mas, por negação, ou simples desconhecimento, só não usei porque não vi espaço suficiente para retirar a fumaça do kit (ainda não vejo). Contudo, o sacrificio parece ir muito alem do esperado. Não sei se iria funcionar com grandes grupos de inimigos, e se assim for, trocar a habilidade por fumaça seria rápido. Devo testar os tempos das rotações com e sem *Death Mark*.
+20260613 ==*Death Mark*== Me enviaram um vídeo com a demonstração do qual efetivo e devastador pode ser um amplificador de dano de 15% de todo o dano por alguns segundos. O que desconsiderei por completo. Eu ja deveria ter visto o obvio desde o início quando fiz o download do vídeo do anu mas, por negação, ou simples desconhecimento, só não usei porque não vi espaço suficiente para retirar a fumaça do kit (ainda não vejo). Contudo, o sacrificio parece ir muito alem do esperado. Não sei se iria funcionar com grandes grupos de inimigos, e se assim for, trocar a habilidade por fumaça seria rápido. Devo testar os tempos das rotações com e sem *Death Mark*.
 
-20260615 
+20260615 ==*Ratosar Race*== Walk near > Death Mark > Gap Wound, Shiv. Stack to 10 > Dragon punch ult cancel
