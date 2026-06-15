@@ -290,6 +290,6 @@ to remain the nerves of the cold steel to play darius with accuracy
 
 20260615 ==*Ratosar Race*== The sharpest run occurs when the ratsar dies before orb3 mark
 - Phase 1
-Walk near > Death Mark > Gap Wound, Shiv. > ULT 1 > Urge to kill > ULT 2 > ULT 3 > Dragon punch ult cancel
+Walk near > Death Mark > Gap Wound, Shiv. > ULT > Urge to kill > ULT > Dragon punch ult cancel
 use 4 to stack dragon punch
 - Phase 2
