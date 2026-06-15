@@ -296,4 +296,7 @@ goal: 50%-49%hp if you hit the 0.5 gcd timer for all ults after Dragon punch can
 - Phase 2
 
 Orb 2 0.?
-
+wait to bubble expire
+Death mark > gap wound, shiv ult > Urge
+DONT PRESS ANY WASD button
+the goal is 7%
