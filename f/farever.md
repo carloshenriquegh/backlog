@@ -290,5 +290,5 @@ to remain the nerves of the cold steel to play darius with accuracy
 
 20260615 ==*Ratosar Race*== 
 - Phase 1
-Walk near > Death Mark > Gap Wound, Shiv. Stack to 10 > Dragon punch ult cancel
+Walk near > Death Mark > Gap Wound, Shiv. Stack to 10 > ULT 2 > Dragon punch ult cancel
 - Phase 2
