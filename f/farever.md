@@ -292,5 +292,8 @@ to remain the nerves of the cold steel to play darius with accuracy
 - Phase 1
 Walk near > Death Mark > Gap Wound, Shiv. > ULT > Urge to kill > ULT > Dragon punch ult cancel
 use 4 to stack dragon punch
-goal: 50%-49% hp if you hit the 0.5 gcd timer for all ults after Dragon punch cancel
+goal: 50%-49%hp if you hit the 0.5 gcd timer for all ults after Dragon punch cancel
 - Phase 2
+
+Orb 2 0.?
+
