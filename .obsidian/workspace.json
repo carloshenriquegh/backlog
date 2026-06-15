@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-06-15º.md",
+                "file": "i/inss.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-15º"
+              "title": "inss"
             }
           }
         ]
@@ -84,13 +84,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-06-15º.md",
+                "file": "i/inss.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2026-06-15º"
+              "title": "Sumário de inss"
             }
           },
           {
@@ -209,8 +209,9 @@
   },
   "active": "00a8c2ebb2781947",
   "lastOpenFiles": [
-    "f/farever.md",
+    "i/iptu.md",
     "dailynote/2026-06-15º.md",
+    "f/farever.md",
     "dailynote/2026-06-14º.md",
     "dailynote/2026-06-13º.md",
     "dailynote/2026-06-12º.md",
@@ -239,7 +240,6 @@
     "dailynote/2026-05-30º.md",
     "Screenshot_1.png",
     "dailynote/2026-05-29º.md",
-    "dailynote/2026-05-28º.md",
     "news.blizzard.com/en-us/article/24267729",
     "news.blizzard.com/en-us/article",
     "news.blizzard.com/en-us",
