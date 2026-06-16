@@ -300,3 +300,7 @@ wait to bubble expire
 Death mark > gap wound, shiv ult > Urge > ULT > DPU
 DONT PRESS ANY WASD button
 the goal is 7% (or 1% if you strike all)
+
+
+the only difference is the 3 presence of LMB
+delete 3 to restore
