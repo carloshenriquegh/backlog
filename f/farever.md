@@ -304,3 +304,5 @@ the goal is 7% (or 1% if you strike all)
 
 the only difference is the 3 presence of LMB
 delete 3 to restore
+
+{WAITMS:250}{HOLDMS:200}{PRESS}1{RELEASE}1
