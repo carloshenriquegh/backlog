@@ -307,6 +307,11 @@ delete 3 to restore
 
 # X-mouse control build (final rotation)
 
+Left Button
+G4
+only send if profile's process is active
+6 Repeatdly while the button is down
+
 Right Button
 {WAITMS:400}{HOLDMS:200}{PRESS}1{RELEASE}1
 only send if profile's process is active
@@ -316,3 +321,10 @@ Mouse Button 5
 {WAITMS:500}{HOLDMS:200}{PRESS}e{RELEASE}
 only send if profile's process is active
 2 As mouse button is released
+
+Wheel Down
+{PRESS}{HOLDMS:50}3{RELEASE}3
+only send if profile's process is active
+block original mouse input
+1 As mouse button is pressed
+
