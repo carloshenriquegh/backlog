@@ -1,5 +1,3 @@
-
-
 # Rogue meta
 
 After 80 hours of rogue i found 2 builds i like the most.
@@ -306,3 +304,15 @@ the only difference is the 3 presence of LMB
 delete 3 to restore
 
 {WAITMS:250}{HOLDMS:200}{PRESS}1{RELEASE}1
+
+# X-mouse control build (final rotation)
+
+Right Button
+{WAITMS:400}{HOLDMS:200}{PRESS}1{RELEASE}1
+only send if profile's process is active
+6 Repeatedly while the button is down
+
+Mouse Button 5
+{WAITMS:500}{HOLDMS:200}{PRESS}e{RELEASE}
+only send if profile's process is active
+2 As mouse button is released
