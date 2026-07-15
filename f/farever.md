@@ -328,3 +328,17 @@ only send if profile's process is active
 block original mouse input
 1 As mouse button is pressed
 
+# Ramburg
+
+Demon hunter's Mantle
+18 tanned light leather
+4 soft fur
+10 veiled wing
+2 fragment of nuon
+
+set eye of fracture
+2 copper setting
+5 fiendish eye
+
+magic formula: lifestealing
+10 fiendish eye
