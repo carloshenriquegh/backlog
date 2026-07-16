@@ -319,7 +319,7 @@ delete 3 to restore
 
 {WAITMS:250}{HOLDMS:200}{PRESS}1{RELEASE}1
 
-# X-mouse control build (final rotation)
+# X-mouse control build (RATSAR)(final rotation)
 
 Left Button
 G4
@@ -342,6 +342,12 @@ only send if profile's process is active
 block original mouse input
 1 As mouse button is pressed
 
+# X-mouse control build (NIBS)(final rotation)
+
+Right Button
+{WAITMS:400}{HOLDMS:200}{PRESS}3{RELEASE}3
+only send if profile's process is active
+6 Repeatedly while the button is down
 # Ramburg
 
 Demon hunter's Mantle
