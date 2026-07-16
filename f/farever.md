@@ -82,6 +82,11 @@ arsenal: thornlace (movespeed heal (meta)) or cheese moon (on crit healing aura)
 | Alchemy2 | [Minor Alchemist Cauldron](https://questlog.gg/farever/en/db/item/SmallAlchemistCauldron) +10str +10dex +10int +10fth                                                                                                                                                                                                               | <-                                                                                                                                                                           |
 | Enchant  | [Scroll of Dexterity](https://questlog.gg/farever/en/db/item/ScrollOfDexterity) +2dex                                                                                                                                                                                                                                               | [Scroll of Corrupted Dexterity](https://questlog.gg/farever/en/db/item/ScrollOfCorruptedDexterity) -4vit +4dex                                                               |
 |          |                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                              |
+question1
+Hey everyone, can someone clear something up for me?
+
+I'm using both daggers from the game: Ratssar's in the main hand and the new one in the off-hand. Why do I suddenly land multiple hits at once? Is it random, or is there a specific combo to trigger that flurry of hits? I don't quite get why it happens.
+> its both passives proccing each other over and over again, its prob a bug so enjoy it while it lasts :p
 
 ```html
 <html><head><style>body {
