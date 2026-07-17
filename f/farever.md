@@ -404,7 +404,7 @@ magic formula: lifestealing
 
 ![](Pasted%20image%2020260716225410.png)
 
-## Lilithium
+## Lilithium (não da pra fazer solo)
 
 ![](Pasted%20image%2020260716225429.png)
 
