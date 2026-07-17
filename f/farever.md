@@ -345,12 +345,12 @@ block original mouse input
 # X-mouse control build (NIBS)(final rotation)
 
 Right Button
-{WAITMS:400}{HOLDMS:200}{PRESS}3{RELEASE}3
+{WAITMS:400}{HOLDMS:200}{PRESS}1{RELEASE}1
 only send if profile's process is active
 6 Repeatedly while the button is down
 
 Wheel Down
-{PRESS}{HOLDMS:50}1{RELEASE}1
+{PRESS}{HOLDMS:50}3{RELEASE}3
 only send if profile's process is active
 block original mouse input
 1 As mouse button is pressed
