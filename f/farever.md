@@ -413,6 +413,8 @@ magic formula: lifestealing
 
 ## Lucifer
 
+
+
 ## Mortalkombaal
 
 ![](Pasted%20image%2020260717032702.png)
