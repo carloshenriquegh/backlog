@@ -364,10 +364,15 @@ only send if profile's process is active
 
 Wheel Down
 {PRESS}{HOLDMS:50}3{RELEASE}3
-only send if profile's process is active
+only send if profile'sw process is active
 block original mouse input
 1 As mouse button is pressed
 
+LeftMouse Button (Padrão é G4)
+G4{RBM}
+6 Repeatdly
+auto repeat 300
+only sendo if profile active
 
 # Ramburg
 
