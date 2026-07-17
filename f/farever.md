@@ -396,13 +396,16 @@ magic formula: lifestealing
 
 ## Ariana
 
-![](Pasted%20image%2020260716214058.png)
+![](Pasted%20image%2020260716225449.png)
 
 ## Baphomet
 
 ## Belzeb
+
+![](Pasted%20image%2020260716225410.png)
+
 ## Lucifer
 
 ## Não identificados
 
-![](Pasted%20image%2020260716224240.png)
+![](Pasted%20image%2020260716225429.png)
