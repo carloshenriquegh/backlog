@@ -358,7 +358,7 @@ block original mouse input
 # X-mouse control build (CLAUDIUS-FITA)(final rotation)
 
 Right Button
-1
+{WAITMS:10}{HOLDMS:200}{PRESS}1{RELEASE}1
 only send if profile's process is active
 6 Repeatedly while the button is down
 
