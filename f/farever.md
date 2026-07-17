@@ -355,6 +355,9 @@ only send if profile's process is active
 block original mouse input
 1 As mouse button is pressed
 
+Left
+G4
+
 # X-mouse control build (CLAUDIUS-FITA)(final rotation)
 
 Right Button
