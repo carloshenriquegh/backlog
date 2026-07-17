@@ -398,6 +398,9 @@ magic formula: lifestealing
 
 ![](Pasted%20image%2020260716225449.png)
 
+## Asmodeuf
+
+![](Pasted%20image%2020260717193720.png)
 ## Baphomet
 
 ## Belzeb

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-07-17º.md",
+                "file": "f/farever.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-17º"
+              "title": "farever"
             }
           }
         ]
@@ -84,13 +84,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-07-17º.md",
+                "file": "f/farever.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2026-07-17º"
+              "title": "Sumário de farever"
             }
           },
           {
@@ -203,11 +203,13 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "43f09b9c47632329",
   "lastOpenFiles": [
+    "Pasted image 20260717193720.png",
     "dailynote/2026-07-17º.md",
     "Pasted image 20260717032702.png",
     "f/farever.md",
