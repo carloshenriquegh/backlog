@@ -373,6 +373,8 @@ magic formula: lifestealing
 
 ## Ariana
 
+![](Pasted%20image%2020260716214058.png)
+
 ## Baphomet
 
 ## Belzeb
