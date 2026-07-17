@@ -411,9 +411,9 @@ magic formula: lifestealing
 
 ![](Pasted%20image%2020260716225429.png)
 
-## Lucifer
+## Luci
 
-
+![](Pasted%20image%2020260717195904.png)
 
 ## Mortalkombaal
 
