@@ -368,3 +368,12 @@ set eye of fracture
 
 magic formula: lifestealing
 10 fiendish eye
+
+# Soultone
+
+## Ariana
+
+## Baphomet
+
+## Belzeb
+## Lucifer
