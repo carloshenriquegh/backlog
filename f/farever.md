@@ -402,3 +402,7 @@ magic formula: lifestealing
 
 ## Belzeb
 ## Lucifer
+
+## Não identificados
+
+![](Pasted%20image%2020260716224240.png)
