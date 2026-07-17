@@ -408,6 +408,9 @@ magic formula: lifestealing
 
 ## Mortalkombaal
 
+![](Pasted%20image%2020260717032702.png)
+
+
 ## Não identificados
 
 ![](Pasted%20image%2020260716225429.png)
