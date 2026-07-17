@@ -404,6 +404,10 @@ magic formula: lifestealing
 
 ![](Pasted%20image%2020260716225410.png)
 
+## Lilithium
+
+![](Pasted%20image%2020260716225429.png)
+
 ## Lucifer
 
 ## Mortalkombaal
@@ -413,4 +417,3 @@ magic formula: lifestealing
 
 ## Não identificados
 
-![](Pasted%20image%2020260716225429.png)
