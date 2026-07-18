@@ -393,7 +393,7 @@ set eye of fracture
 magic formula: lifestealing
 10 fiendish eye
 
-# Soultone
+# Soulstone
 
 ## Ariana
 
@@ -402,7 +402,10 @@ magic formula: lifestealing
 ## Asmodeuf
 
 ![](Pasted%20image%2020260717193720.png)
-## Baphomet
+## Baphometal
+
+![](Pasted%20image%2020260718005114.png)
+
 
 ## Belzeb
 
