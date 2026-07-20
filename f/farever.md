@@ -341,8 +341,7 @@ Wheel Down
 only send if profile's process is active
 block original mouse input
 1 As mouse button is pressed
-15 17 34
-16 19 35
+
 # X-mouse control build (NIBS)(final rotation)
 
 Right Button
