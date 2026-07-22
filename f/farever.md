@@ -430,5 +430,5 @@ magic formula: lifestealing
 
 # Proposta de construção de escala vertical com confirmação de multi-acerto
 
-A ideia central da construção é acumular o máximo de pontos em destreza ao lado do atributo de dano crítico. Apesar do enfraquecimento 
+A ideia central da construção é acumular o máximo de pontos em destreza ao lado do atributo de dano crítico. Apesar do enfraquecimento da frequência de acertos críticos 
 
