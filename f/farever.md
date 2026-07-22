@@ -459,11 +459,13 @@ O gatilho referente ao efeito das presas afiadas é ativado duas vezes se o acer
 
 Deve alcançar 20% ou mais. Quanto maior o número maior a chance de garantir a ativação dupla. O talento Acerto de Oportunidade pode, com 50% de chance, duplicar o último acerto crítico, e, se houver sorte o suficiente, entrar em um pequeno ciclo de reativação se os acertos subsequentes também forem criticos. 
 
-(título ou subtítulo) Multi-acerto
-
 (título ou subtítulo) Combo
 
-(peças)
+(título ou subtítulo) Sobre a confirmação do multiacerto
+
+(armas e arsenal)
+
+(peças de armadura)
 
 (Encatamentos, presentes e berloque)
 
