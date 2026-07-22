@@ -428,7 +428,17 @@ magic formula: lifestealing
 
 ## Não identificados
 
-# Proposta de construção de escala vertical com confirmação de multi-acerto
+# Destreza & Crítico (proposta de confirmação de multiacerto)
 
-A ideia central da construção é acumular o máximo de pontos em destreza ao lado do atributo de dano crítico. Apesar do enfraquecimento da frequência de acertos críticos 
+(PP) Habilidade Passiva da arma principal
+(P1) Habilidade Ativa Primária da arma principal 1
+(P2) Habilidade Ativa Secundária da arma principal 2
+(AP) Habilidade Passiva do arsenal 
+(A1) Habilidade Primária do arsenal 
+(A2) Habilidade Secundária do arsenal
+Gaping Wound Feridas Abertas
+Shiv Estilete
+Presas Afiadas Sharpen Fangs
+
+A ideia central da construção é acumular o máximo de pontos em destreza ao lado do atributo de dano crítico. Apesar do enfraquecimento da chance de acerto crítico em relação a frequência em que pode acontecer em -5% (nota de atualização [v0.1.6](https://steamcommunity.com/app/3672400/allnews/) seção balanceamento) o atributo de chance de acerto crítico consegue alcançar um detalhe crucial das adagas do rei rato em específico parte da habilidade do *Estilete(2)*
 
