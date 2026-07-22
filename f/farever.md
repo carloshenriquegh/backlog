@@ -449,7 +449,7 @@ Apesar do enfraquecimento da chance de acerto crítico em relação a frequênci
 > *Trigger the effect of sharpen Fangs twice if this critically strike* (Farever, v0.2.2)
 
 (Tradução livre)
-O gatilho referente ao efeito das presas afiadas é ativado duas vezes se o acerto for crítico.
+O gatilho referente ao efeito das presas afiadas é ativado duas vezes se o acerto do Estilete for crítico.
 
 (imagem com a descrição original)
 
@@ -470,3 +470,5 @@ Deve alcançar 20% ou mais. Quanto maior o número maior a chance de garantir a 
 (Encatamentos, presentes e berloque)
 
 (arvore)
+
+(Citações honrosas)
