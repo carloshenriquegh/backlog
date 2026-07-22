@@ -436,9 +436,25 @@ magic formula: lifestealing
 (AP) Habilidade Passiva do arsenal 
 (A1) Habilidade Primária do arsenal 
 (A2) Habilidade Secundária do arsenal
-Gaping Wound Feridas Abertas
-Shiv Estilete
+Flagelo Cheesebane
+Feridas Abertas Gaping Wound
+Estilete Shiv
 Presas Afiadas Sharpen Fangs
 
-A ideia central da construção é acumular o máximo de pontos em destreza ao lado do atributo de dano crítico. Apesar do enfraquecimento da chance de acerto crítico em relação a frequência em que pode acontecer em -5% (nota de atualização [v0.1.6](https://steamcommunity.com/app/3672400/allnews/) seção balanceamento) o atributo de chance de acerto crítico consegue alcançar um detalhe crucial das adagas do rei rato em específico parte da habilidade do *Estilete(2)*
+A ideia central da construção é acumular o máximo de pontos em destreza ao lado do atributo de dano crítico.
+A destreza é um multiplicador de dano físico. Todas as habilidades das adagas do rei rato escalam com destreza.
 
+Apesar do enfraquecimento da chance de acerto crítico em relação a frequência em que pode acontecer em -5% (nota de atualização [v0.1.6](https://steamcommunity.com/app/3672400/allnews/) seção balanceamento) o atributo de chance de acerto crítico consegue alcançar um detalhe crucial das adagas do rei rato, em específico, parte da habilidade secundária do *Estilete*.
+
+> *Trigger the effect of sharpen Fangs twice if this critically strike* (Farever, v0.2.2)
+
+(Tradução livre)
+O gatilho referente ao efeito das presas afiadas é ativado duas vezes se o acerto for crítico.
+
+(imagem com a descrição original)
+
+(título ou subtítulo) Chance crítica
+
+Deve alcançar 20% ou mais
+
+(título ou subtítulo) 
