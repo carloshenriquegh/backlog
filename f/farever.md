@@ -455,6 +455,6 @@ O gatilho referente ao efeito das presas afiadas é ativado duas vezes se o acer
 
 (título ou subtítulo) Chance crítica
 
-Deve alcançar 20% ou mais
+Deve alcançar 20% ou mais. Quanto maior o número maior a chance de garantir a ativação dupla.
 
 (título ou subtítulo) 
