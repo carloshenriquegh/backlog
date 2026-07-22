@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "af5a1c85e8bbf92f",
+        "id": "d2a81a77b1f0bff5",
         "type": "tabs",
         "children": [
           {
-            "id": "43f09b9c47632329",
+            "id": "7c4c215140473cdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -203,14 +203,13 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "43f09b9c47632329",
+  "active": "7c4c215140473cdf",
   "lastOpenFiles": [
-    "dailynote/2026-07-21º.md",
     "dailynote/2026-07-22º.md",
+    "dailynote/2026-07-21º.md",
     "f/farever.md",
     "dailynote/2026-07-20º.md",
     "dailynote/2026-07-19º.md",
