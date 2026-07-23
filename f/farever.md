@@ -477,6 +477,11 @@ Deve alcançar 20% ou mais. Quanto maior o número maior a chance de garantir a 
 
 # Config X-mouse 260723
 
+The config inside game need to be:
+skill slot 1:1
+skill slot 2:2
+skill slot 2:RBM
+skill slot 4:4
 ## Ratsar-nibsham
 
 Combo MB1 > RMBx2 > Wheeldownx2
@@ -489,4 +494,12 @@ auto repeat 300 mili
 Right Button
 {WAITMS:50}{HOLDMS:200}{PRESS}3{RELEASE}3
 only send if profile process is active
+
+MB5
+{WAITMS:500}{HOLDMS:200}{PRESS}e{RELEASE}
+
+WheelDown
+{PRESS}{HOLDMS:50}2{RELEASE}2
+
+# Dungeon setups and strat
 
