@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-07-23º.md",
+                "file": "f/farever.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-23º"
+              "title": "farever"
             }
           }
         ]
@@ -84,13 +84,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-07-23º.md",
+                "file": "f/farever.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2026-07-23º"
+              "title": "Sumário de farever"
             }
           },
           {
@@ -209,8 +209,8 @@
   },
   "active": "7c4c215140473cdf",
   "lastOpenFiles": [
-    "f/farever.md",
     "dailynote/2026-07-23º.md",
+    "f/farever.md",
     "dailynote/2026-07-22º.md",
     "dailynote/2026-07-21º.md",
     "dailynote/2026-07-20º.md",
