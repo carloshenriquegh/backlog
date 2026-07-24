@@ -503,3 +503,8 @@ WheelDown
 
 # Dungeon setups and strat
 
+## Gorgon's Hollow
+
+Golem launchpoint
+
+![](Pasted%20image%2020260724171721.png)
