@@ -507,6 +507,7 @@ WheelDown
 
 - Golem launchpoint
 
+![](Pasted%20image%2020260724204707.png)
 ![](Pasted%20image%2020260724174802.png)
 
 ![](Pasted%20image%2020260724173147.png)
