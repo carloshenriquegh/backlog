@@ -505,6 +505,6 @@ WheelDown
 
 ## Gorgon's Hollow
 
-Golem launchpoint
+- Golem launchpoint
 
 ![](Pasted%20image%2020260724171721.png)
