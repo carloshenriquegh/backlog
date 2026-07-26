@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-07-25º.md",
+                "file": "dailynote/2026-07-26º.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-25º"
+              "title": "2026-07-26º"
             }
           }
         ]
@@ -84,13 +84,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-07-25º.md",
+                "file": "dailynote/2026-07-26º.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2026-07-25º"
+              "title": "Sumário de 2026-07-26º"
             }
           },
           {
@@ -203,13 +203,15 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "e8c0bc77fe50d032",
   "lastOpenFiles": [
-    "f/farever.md",
     "dailynote/2026-07-25º.md",
+    "dailynote/2026-07-26º.md",
+    "f/farever.md",
     "Pasted image 20260724204707.png",
     "Pasted image 20260724174802.png",
     "Pasted image 20260724173147.png",
@@ -243,7 +245,6 @@
     "dailynote/2026-07-9º.md",
     "dailynote/2026-07-8º.md",
     "dailynote/2026-07-7º.md",
-    "dailynote/2026-07-6º.md",
     "news.blizzard.com/en-us/article/24267729",
     "news.blizzard.com/en-us/article",
     "news.blizzard.com/en-us",
