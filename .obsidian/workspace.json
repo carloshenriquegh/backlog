@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "f/farever.md",
+                "file": "dailynote/2026-07-27º.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "farever"
+              "title": "2026-07-27º"
             }
           }
         ]
@@ -84,13 +84,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "f/farever.md",
+                "file": "dailynote/2026-07-27º.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de farever"
+              "title": "Sumário de 2026-07-27º"
             }
           },
           {
@@ -209,11 +209,12 @@
   },
   "active": "e8c0bc77fe50d032",
   "lastOpenFiles": [
+    "f/farever.md",
+    "dailynote/2026-07-27º.md",
     "Pasted image 20260726214614.png",
     "Pasted image 20260726212520.png",
     "dailynote/2026-07-26º.md",
     "dailynote/2026-07-25º.md",
-    "f/farever.md",
     "Pasted image 20260724204707.png",
     "Pasted image 20260724174802.png",
     "Pasted image 20260724173147.png",
@@ -230,7 +231,6 @@
     "Pasted image 20260717195537.png",
     "Pasted image 20260717193720.png",
     "dailynote/2026-07-17º.md",
-    "Pasted image 20260717032702.png",
     "dailynote/2026-07-16º.md",
     "dailynote/2026-07-15º.md",
     "i/iptu.md",
