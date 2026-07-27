@@ -506,6 +506,8 @@ WheelDown
 ## Gorgon's Hollow
 
 - Golem launchpoint
+
+![](Pasted%20image%2020260726214614.png)
 ![](Pasted%20image%2020260726212520.png)
 
 ![](Pasted%20image%2020260724174802.png)
