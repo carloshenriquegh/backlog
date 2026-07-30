@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2026-07-30º"
             }
+          },
+          {
+            "id": "ac28fb3ce69cba60",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.13.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +103,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2026-07-30º"
+              "title": "Sumário"
             }
           },
           {
@@ -181,7 +194,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -203,11 +218,10 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "e8c0bc77fe50d032",
+  "active": "ac28fb3ce69cba60",
   "lastOpenFiles": [
     "dailynote/2026-07-29º.md",
     "dailynote/2026-07-30º.md",
