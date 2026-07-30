@@ -25,12 +25,14 @@
             "id": "ac28fb3ce69cba60",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.13.4"
+                "file": "d/dina.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.13.4"
+              "icon": "lucide-file",
+              "title": "dina"
             }
           }
         ],
@@ -97,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-07-30º.md",
+                "file": "d/dina.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -218,11 +220,13 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "ac28fb3ce69cba60",
   "lastOpenFiles": [
+    "d/dina.md",
     "dailynote/2026-07-29º.md",
     "dailynote/2026-07-30º.md",
     "dailynote/2026-07-28º.md",
@@ -258,7 +262,6 @@
     "dailynote/2026-07-12º.md",
     "dailynote/2026-07-11º.md",
     "dailynote/2026-07-10º.md",
-    "c/condominio-caminhosdocerrado.md",
     "news.blizzard.com/en-us/article/24267729",
     "news.blizzard.com/en-us/article",
     "news.blizzard.com/en-us",
