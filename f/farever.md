@@ -534,6 +534,8 @@ Antelibiam Crab https://metaforge.app/farever/database/mounts/antelimbian-crab D
 Meropsian Crab https://metaforge.app/farever/database/mounts/meropsian-crab Crabgantua (ultrarare)
 Nescentine Ladybug https://metaforge.app/farever/database/mounts/nescentine-leggybug Ladybee
 Nescentine Wolf https://metaforge.app/farever/database/mounts/nescentine-wolf Wolfs around primavalle
+Primevallean Skunk https://metaforge.app/farever/database/mounts/primevallean-skunk skunks around primavalle
+
 
 
 
