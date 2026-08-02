@@ -524,3 +524,8 @@ Eksodean Seedbird https://questlog.gg/farever/en/db/item/Glider_Sprout_Green Ric
 Original Paramglider https://questlog.gg/farever/en/db/item/Glider_Crimson01 Robin hoof
 Semeruian Moth https://questlog.gg/farever/en/db/item/Glider_Butterfly_Yellow Gatsbee
 Nifelian Dragoon https://questlog.gg/farever/en/db/item/Glider_Dragon_Demon 15 portals rift
+
+# Mounts
+
+Enraged Nightdog https://questlog.gg/farever/en/db/item/Mount_Demon_05 sold by vendor
+
