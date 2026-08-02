@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-08-2º.md",
+                "file": "f/farever.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-2º"
+              "title": "farever"
             }
           }
         ],
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-08-2º.md",
+                "file": "f/farever.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -226,8 +226,8 @@
   },
   "active": "ac28fb3ce69cba60",
   "lastOpenFiles": [
-    "dailynote/2026-08-1º.md",
     "dailynote/2026-08-2º.md",
+    "dailynote/2026-08-1º.md",
     "dailynote/2026-07-31º.md",
     "d/dina.md",
     "dailynote/2026-07-29º.md",

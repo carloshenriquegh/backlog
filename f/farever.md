@@ -514,3 +514,13 @@ WheelDown
 
 ![](Pasted%20image%2020260724173147.png)
 
+# Gliders LF
+
+https://questlog.gg/farever/en/db/item/Glider_Demon_Red02 Mad Oculurk Sold by vendor
+https://questlog.gg/farever/en/db/item/Glider_Demon_Blue Furious Oculurk Sold by vendor
+Hateful Oculurk https://questlog.gg/farever/en/db/item/Glider_Demon_Purple Nightqueen Shaarlize Te'ror
+Acidic Wingfish https://questlog.gg/farever/en/db/item/Glider_FlyingFish_Acid Sponge Bob
+Eksodean Seedbird https://questlog.gg/farever/en/db/item/Glider_Sprout_Green Rice farm
+Original Paramglider https://questlog.gg/farever/en/db/item/Glider_Crimson01 Robin hoof
+Semeruian Moth https://questlog.gg/farever/en/db/item/Glider_Butterfly_Yellow Gatsbee
+Nifelian Dragoon https://questlog.gg/farever/en/db/item/Glider_Dragon_Demon 15 portals rift
