@@ -528,4 +528,5 @@ Nifelian Dragoon https://questlog.gg/farever/en/db/item/Glider_Dragon_Demon 15 p
 # Mounts
 
 Enraged Nightdog https://questlog.gg/farever/en/db/item/Mount_Demon_05 sold by vendor
+Aegis https://questlog.gg/farever/en/db/item/Mount_Aries_05 chakram
 
