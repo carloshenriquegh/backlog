@@ -530,3 +530,5 @@ Nifelian Dragoon https://questlog.gg/farever/en/db/item/Glider_Dragon_Demon 15 p
 Enraged Nightdog https://questlog.gg/farever/en/db/item/Mount_Demon_05 sold by vendor
 Aegis https://questlog.gg/farever/en/db/item/Mount_Aries_05 chakram
 Alandian Hog https://metaforge.app/farever/database/mounts/alandian-hog Achievement · Bestiary of Valley of Eternal Autumn
+Antelibiam Crab https://metaforge.app/farever/database/mounts/antelimbian-crab Defeating red crabs around big crab boss
+
