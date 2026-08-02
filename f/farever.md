@@ -535,6 +535,9 @@ Meropsian Crab https://metaforge.app/farever/database/mounts/meropsian-crab Crab
 Nescentine Ladybug https://metaforge.app/farever/database/mounts/nescentine-leggybug Ladybee
 Nescentine Wolf https://metaforge.app/farever/database/mounts/nescentine-wolf Wolfs around primavalle
 Primevallean Skunk https://metaforge.app/farever/database/mounts/primevallean-skunk skunks around primavalle
+Rinuhrian Skunk https://metaforge.app/farever/database/mounts/rinuhrian-skunk Monster Chuck
+Rinuhrian Warram https://metaforge.app/farever/database/mounts/rinuhrian-warram Bestiary of ramburg
+
 
 
 
