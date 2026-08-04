@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-08-4º.md",
+                "file": "f/farever.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-4º"
+              "title": "farever"
             }
           }
         ],
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-08-4º.md",
+                "file": "f/farever.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -226,8 +226,9 @@
   },
   "active": "ac28fb3ce69cba60",
   "lastOpenFiles": [
-    "dailynote/2026-08-3º.md",
+    "Pasted image 20260804203533.png",
     "dailynote/2026-08-4º.md",
+    "dailynote/2026-08-3º.md",
     "dailynote/2026-08-2º.md",
     "dailynote/2026-08-1º.md",
     "dailynote/2026-07-31º.md",
@@ -261,7 +262,6 @@
     "dailynote/2026-07-15º.md",
     "i/iptu.md",
     "dailynote/2026-07-14º.md",
-    "c/carga-t.md",
     "news.blizzard.com/en-us/article/24267729",
     "news.blizzard.com/en-us/article",
     "news.blizzard.com/en-us",
