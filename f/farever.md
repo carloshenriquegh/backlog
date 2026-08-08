@@ -550,4 +550,7 @@ Rinuhrian Warram https://metaforge.app/farever/database/mounts/rinuhrian-warram 
 
 Zoom out max
 
+1. Middlewall hug of salvation: WALL > MIDDLE > HUG with a or d pressing. NEVER USE ULTIMATES
+2. Third car of salvation: always use the third and simple step to the ground and run. NEVER JUMP
+3. Repeat until boss die.
 
