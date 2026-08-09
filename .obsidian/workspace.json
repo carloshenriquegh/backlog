@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-08-9º.md",
+                "file": "d/desodorantes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-9º"
+              "title": "desodorantes"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "senhor",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-08-9º.md",
+                "file": "d/desodorantes.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -209,8 +209,9 @@
   },
   "active": "19cbc7a728e27ce1",
   "lastOpenFiles": [
-    "c/condominio-caminhosdocerrado.md",
     "dailynote/2026-08-9º.md",
+    "d/desodorantes.md",
+    "c/condominio-caminhosdocerrado.md",
     "dailynote/2026-04-14º.md",
     "dailynote/2026-04-13º.md",
     "dailynote/2026-04-12º.md",
@@ -234,7 +235,6 @@
     "dailynote/2026-03-24º.md",
     "dailynote/2026-03-23º.md",
     "dailynote/2026-03-22º.md",
-    "dailynote/2026-03-21º.md",
     "Pasted image 20260804203533.png",
     "Pasted image 20260726214614.png",
     "Pasted image 20260726212520.png",
