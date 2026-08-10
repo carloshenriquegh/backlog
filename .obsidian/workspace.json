@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "d/desodorantes.md",
+                "file": "dailynote/2026-08-10º.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "desodorantes"
+              "title": "2026-08-10º"
             }
           }
         ]
@@ -82,7 +82,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "d/desodorantes.md",
+                "file": "dailynote/2026-08-10º.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -209,8 +209,9 @@
   },
   "active": "19cbc7a728e27ce1",
   "lastOpenFiles": [
-    "dailynote/2026-08-9º.md",
     "d/desodorantes.md",
+    "dailynote/2026-08-10º.md",
+    "dailynote/2026-08-9º.md",
     "c/condominio-caminhosdocerrado.md",
     "dailynote/2026-04-14º.md",
     "dailynote/2026-04-13º.md",
@@ -234,7 +235,6 @@
     "dailynote/2026-03-25º.md",
     "dailynote/2026-03-24º.md",
     "dailynote/2026-03-23º.md",
-    "dailynote/2026-03-22º.md",
     "Pasted image 20260804203533.png",
     "Pasted image 20260726214614.png",
     "Pasted image 20260726212520.png",
@@ -257,7 +257,4 @@
     "u",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "T/template/template-newport/template-newport-v2.canvas",
-    "N/NewportTemplate.canvas"
-  ]
-}
+    "T/template/temp
