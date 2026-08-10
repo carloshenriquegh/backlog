@@ -1,3 +1,3 @@
-Axe Apollo 5.6
-Old Spice Brisa do Mar 5
-Old Spice VIP 5.5
+Old Spice VIP 5.5 (+0.8)
+Old Spice Brisa do Mar 5 (-0.5)
+Axe Apollo 5 (-0.8)
