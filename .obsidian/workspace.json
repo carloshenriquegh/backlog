@@ -25,12 +25,14 @@
             "id": "5479751795fe35c8",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.13.6"
+                "file": "dailynote/2026-08-11º.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.13.6"
+              "icon": "lucide-file",
+              "title": "2026-08-11º"
             }
           }
         ],
@@ -100,6 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "dailynote/2026-08-11º.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -220,11 +223,13 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "5479751795fe35c8",
   "lastOpenFiles": [
+    "dailynote/2026-08-11º.md",
     "dailynote/2026-08-10º.md",
     "d/desodorantes.md",
     "dailynote/2026-08-9º.md",
@@ -250,7 +255,6 @@
     "dailynote/2026-03-26º.md",
     "dailynote/2026-03-25º.md",
     "dailynote/2026-03-24º.md",
-    "dailynote/2026-03-23º.md",
     "Pasted image 20260804203533.png",
     "Pasted image 20260726214614.png",
     "Pasted image 20260726212520.png",
