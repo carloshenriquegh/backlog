@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "2026-08-12º"
             }
+          },
+          {
+            "id": "21360a05edf79466",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.13.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,7 +238,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5479751795fe35c8",
+  "active": "21360a05edf79466",
   "lastOpenFiles": [
     "dailynote/2026-08-12º.md",
     "a/excalidraw-20260514-0306.excalidraw.md",
