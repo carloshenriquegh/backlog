@@ -25,12 +25,14 @@
             "id": "5479751795fe35c8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "a/excalidraw-20260514-0306.excalidraw.md"
+                "file": "dailynote/2026-08-12º.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "excalidraw-20260514-0306.excalidraw"
+              "icon": "lucide-file",
+              "title": "2026-08-12º"
             }
           }
         ],
@@ -100,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a/excalidraw-20260514-0306.excalidraw.md",
+                "file": "dailynote/2026-08-12º.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -221,8 +223,7 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "5479751795fe35c8",
