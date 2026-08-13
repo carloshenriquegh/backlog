@@ -48,7 +48,9 @@ AGO 31 SEG
 1 TER
 2 QUA
 3 QUI
+- [ ] 8h-12h-15h-21h BlaBlaCar Eduardo
 4 SEX
+- [ ] 8h00 SAE
 5 SAB
 ## Setembro Semana 2
 
