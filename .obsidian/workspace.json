@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/template-common.md",
+                "file": "p/protocol-agenda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "template-common"
+              "title": "protocol-agenda"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "p/protocol-dailynote.md",
+                "file": "p/protocol-agenda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "protocol-dailynote"
+              "title": "protocol-agenda"
             }
           }
         ]
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/template-common.md",
+                "file": "p/protocol-agenda.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -228,15 +228,16 @@
   },
   "active": "19cbc7a728e27ce1",
   "lastOpenFiles": [
-    "templates/template-dailynote.md",
+    "b/badges.md",
     "templates/template-common.md",
+    "templates/template-dailynote.md",
     "templates/template-content.md",
     "github-markdown-alerts.png",
     "Pasted image 20250327083157.png",
     "p/provadevida.md",
     "t/tags.md",
     "t/templater-date-momentjs.md",
-    "p/protocol-dailynote.md",
+    "p/protocol-agenda.md",
     "g/github-markdown.md",
     "g/github-doc.md",
     "g/github-carloshenriquecrx.md",
@@ -255,7 +256,6 @@
     "dailynote/2026-04-12º.md",
     "dailynote/2026-04-11º.md",
     "dailynote/2026-04-10º.md",
-    "dailynote/2026-04-9º.md",
     "Pasted image 20260804203533.png",
     "Pasted image 20260726214614.png",
     "Pasted image 20260726212520.png",
