@@ -2,7 +2,7 @@
 > Pilhe atividades importantes que vão aparecer durante a semana no domingo. Não é necessário iniciar. É importante reservar o domingo para descanso.
 # Agosto
 
-## Semana 1
+## Agosto Semana 1
 
 2 DOM 
 3 SEG
@@ -11,7 +11,7 @@
 6 QUI
 7 SEX
 8 SAB
-## Semana 2
+## Agosto Semana 2
 
 9 DOM
 10 SEG
@@ -20,7 +20,7 @@
 13 QUI
 14 SEX
 15 SAB
-## Semana 3
+## Agosto Semana 3
 
 16 DOM
 17 SEG
@@ -29,7 +29,7 @@
 20 QUI
 21 SEX
 22 SAB
-## Semana 4
+## Agosto Semana 4
 
 23 DOM
 24 SEG
@@ -40,7 +40,7 @@
 29 SAB
 # Setembro
 
-## Semana 1
+## Setembro Semana 1
 
 AGO 30 DOM 
 AGO 31 SEG
@@ -49,21 +49,85 @@ AGO 31 SEG
 3 QUI
 4 SEX
 5 SAB
-## Semana 2
+## Setembro Semana 2
 
-## Semana 3
+6 DOM
+7 SEG
+8 TER 
+9 QUA
+10 QUI
+11 SEX
+12 SAB
+## Setembro Semana 3
 
-## Semana 4
+13 DOM
+14 SEG
+15 TER
+16 QUA
+17 QUI
+18 SEX
+19 SAB
+## Setembro Semana 4
 
+20 DOM
+21 SEG
+22 TER
+23 QUA
+24 QUI
+25 SEX
+26 SAB
+
+## Setembro Semana 5
+
+27 DOM
+28 SEG
+29 TER
+30 QUA
+OUT 1 QUI
+OUT 2 SEX
+OUT 3 SAB
 # Outubro
 
-DOM
-SEG
-TER
-QUA
-QUI
-SEX
-SAB
+## Outubro Semana 1
+
+4 DOM
+5 SEG
+6 TER
+7 QUA
+8 QUI
+9 SEX
+10 SAB
+
+## Outubro Semana 2
+
+11 DOM
+12 SEG
+13 TER
+14 QUA
+15 QUI
+16 SEX
+17 SAB
+
+## Outubro Semana 3
+
+18 DOM
+19 SEG
+20 TER
+21 QUA
+22 QUI
+23 SEX
+24 SAB
+25 DOM
+
+## Outubro Semana 4
+
+25 DOM
+26 SEG
+27 TER
+28 QUA
+29 QUI
+30 SEX
+31 SAB
 # Novembro
 
 DOM
