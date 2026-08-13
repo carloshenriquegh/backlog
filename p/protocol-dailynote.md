@@ -96,7 +96,7 @@ Exemplo adicional seria `../filename.md onde` `..` significa volte a raiz do pro
 
 No total são 5 alertas exclusivos do github markdown para sinalizar detalhes importantes sobre o texto. 
 
-![](githubmarkdown-alerts.png)
+![](github-markdown-alerts.png)
 *Síntese dos principais alertas*
 
 Segue a entrada em markdown e saída após renderização da página junto a definição.
