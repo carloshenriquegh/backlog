@@ -3,7 +3,7 @@
 > O objetivo é observar o quão eficaz é a organização de uma agenda offline que segue uma estrutura linear simples com atualizações manuais. Os registros temporais em forma de histórico de atividades desde a implementação da ideia até a execução podem ajudar a observar onde há falhas e no melhor cenário impulsionar ciclos encadeados de produtividade e hiperfoco. 
 
  > [!TIP]
- > A ideia segue a contrução de um modelo (apontar modelo aqui).
+ > A ideia segue a construção e aplicação de um modelo (apontar modelo aqui).
 
 # Objetivo
 
@@ -21,8 +21,8 @@ A implementação da ideia parte do princípio de concentração com material co
 ==Restrição== 
 Por vezes me perco na imensidão de material a organizar e, tudo, no fim, parece ter zero relevancia.
 ==Ação==
-comecei a escrever o protocolo de observação da implementação do modelo e a próxima ação é começar a escrever o modelo para então organizar todas as atividades pendentes.
-==Resultado== Com o modelo do primeiro protocolo funcional consigo replicar.
+Comecei a escrever o protocolo de observação da implementação do modelo da agenda e a próxima ação é começar a escrever o modelo para então organizar todas as atividades pendentes.
+==Resultado== Com o modelo do primeiro protocolo funcional consigo replicar para os próximos.
 
 # Referencias
 
