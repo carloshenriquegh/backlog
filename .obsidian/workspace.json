@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "p/protocol-agenda26.md",
+                "file": "a/agenda26.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -232,12 +232,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "16f329164b48190f",
+  "active": "21360a05edf79466",
   "lastOpenFiles": [
+    "p/protocol-agenda26.md",
     "a/agenda26.md",
     "a/agenda25.md",
     "n/notas-prismaticas.md",
-    "p/protocol-agenda26.md",
     "templates/template-protocol.md",
     "p/protocol-template.md",
     "dailynote/2026-03-12 Procrastinar.md",
