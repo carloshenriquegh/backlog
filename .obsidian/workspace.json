@@ -39,12 +39,14 @@
             "id": "21360a05edf79466",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.13.7"
+                "file": "dailynote/2026-08-13º.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.13.7"
+              "icon": "lucide-file",
+              "title": "2026-08-13º"
             }
           }
         ],
@@ -114,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-08-12º.md",
+                "file": "dailynote/2026-08-13º.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -235,11 +237,13 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "21360a05edf79466",
   "lastOpenFiles": [
+    "dailynote/2026-08-13º.md",
     "dailynote/2026-08-12º.md",
     "a/excalidraw-20260514-0306.excalidraw.md",
     "dailynote/2026-08-11º.md",
@@ -265,7 +269,6 @@
     "dailynote/2026-03-30º.md",
     "dailynote/2026-03-29º.md",
     "dailynote/2026-03-28º.md",
-    "dailynote/2026-03-26º.md",
     "Pasted image 20260804203533.png",
     "Pasted image 20260726214614.png",
     "Pasted image 20260726212520.png",
