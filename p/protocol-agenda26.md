@@ -24,12 +24,13 @@ Por vezes me perco na imensidão de material a organizar e, tudo, no fim, parece
 
 ### Ação
 
-Comecei a escrever o protocolo de observação da implementação do modelo da agenda e a próxima ação é começar a escrever o modelo para então organizar todas as atividades pendentes.
+Comecei a escrever o protocolo de observação da implementação do modelo da agenda e a próxima ação é começar a escrever o modelo da agenda para então organizar todas as atividades pendentes.
 
 ### Resultado
 
 Com o modelo do primeiro protocolo funcional consigo replicar para os próximos. A execucão da ideia passa da teoria a prática. Sinto um pequeno lapso de esperança em mim mesmo e uma promessa, ainda que fraca, que posso alcançar produtividade e objetivos.
-
+- Composição da agenda com base nos quatro meses restantes do ano de 2026
+- Meses divididos com 4 semanas. Cada semana se inicia no domingo
 # 4. Referencias
 
 Galego, Augusto. Como eu parei de procrastinar. Youtube, canal Augusto Galego. Disponível em https://www.youtube.com/watch?v=bDdmfrLgLaw. Acesso em: 12 mar. 2026.

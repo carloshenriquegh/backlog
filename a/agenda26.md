@@ -26,7 +26,8 @@
 17 SEG
 18 TER
 19 QUA
-20 QUI
+20 QUI 
+- [ ] exame de urina e entregar no laboratorio 
 21 SEX
 22 SAB
 ## Agosto Semana 4
@@ -130,20 +131,84 @@ OUT 3 SAB
 31 SAB
 # Novembro
 
-DOM
-SEG
-TER
-QUA
-QUI
-SEX
-SAB
+## Novembro Semana 1
+
+1 DOM
+2 SEG
+3 TER
+4 QUA
+5 QUI
+6 SEX
+7 SAB
+## Novembro Semana 2
+
+8 DOM
+9 SEG
+10 TER
+11 QUA
+12 QUI
+13 SEX
+14 SAB
+## Novembro Semana 3
+
+15 DOM
+16 SEG
+17 TER
+18 QUA
+19 QUI
+20 SEX
+21 SAB
+## Novembro Semana 4
+
+22 DOM
+23 SEG
+24 TER
+25 QUA
+26 QUI
+27 SEX
+28 SAB
 # Dezembro
 
-DOM
-SEG
-TER
-QUA
-QUI
-SEX
-SAB
+## Dezembro Semana 1
 
+NOV 29 DOM
+NOV 30 SEG
+1 TER 
+2 QUA
+3 QUI
+4 SEX
+5 SAB
+## Dezembro Semana 2
+
+6 DOM
+7 SEG
+8 TER
+9 QUA
+10 QUI
+11 SEX
+12 SAB
+## Dezembro Semana 3
+
+13 DOM
+14 SEG
+15 TER
+16 QUA
+17 QUI
+18 SEX
+19 SAB
+## Dezembro Semana 4
+
+20 DOM
+21 SEG
+22 TER
+23 QUA
+24 QUI
+25 SEX
+26 SAB
+## Dezembro Semana 5
+
+27 DOM
+28 SEG
+29 TER 
+30 QUA
+31 QUI
