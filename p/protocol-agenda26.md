@@ -28,7 +28,7 @@ Comecei a escrever o protocolo de observação da implementação do modelo da a
 
 ### Resultado
 
-Com o modelo do primeiro protocolo funcional consigo replicar para os próximos.
+Com o modelo do primeiro protocolo funcional consigo replicar para os próximos. A execucão da ideia passa da teoria a prática. Sinto um pequeno lapso de esperança em mim mesmo e uma promessa, ainda que fraca, que posso alcançar produtividade e objetivos.
 
 # 4. Referencias
 

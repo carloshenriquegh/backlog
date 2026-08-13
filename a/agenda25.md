@@ -3,10 +3,10 @@ carloshrq
 contas [condominio-caminhosdocerrado](/c/condominio-caminhosdocerrado.md) [internet-nio](/i/internet-nio.md)
 datas [datas-aniversarios](/d/datas-aniversarios.md)
 finan [bdb](/b/bdb.md) [mdb](/m/mdb.md) [creditomae](/c/creditomae.md) [checar-aluguelapt](/c/checar-aluguelapt.md)
-importante [prep](/p/prep.md) adicionar gearscore, remover reguladores e outro (?), tornar importante um controle e adicionar o controle de receitas dina, não se esquecer de adicionar as frases de wallpaper e os símbolos de fundo
+importante [prep](/p/prep.md) adicionar gearscore?, remover reguladores e outro (?), tornar importante um controle e adicionar o controle de receitas dina, não se esquecer de adicionar as frases de wallpaper e os símbolos de fundo?
 logs [diario-aleatorio](diario-aleatorio.md)
 reguladores [perguntas-redux](/p/perguntas-redux.md) [perguntas-extendidas](/p/perguntas-extendidas) [versao-mapa](/v/versao-emocional.md) [descida-ínfera](/p/psicologia-perguntas.md)
-outro [notas-prismaticas](/n/notas-prismaticas.md)
+outro [notas-prismaticas](/n/notas-prismaticas.md)?
 # Outubro
 
 ## parte 1
