@@ -2,3 +2,27 @@
 > [!NOTE] Protocolo de agenda
 > O objetivo é observar o quão eficaz é a organização de uma agenda offline que segue uma estrutura linear simples com atualizações manuais. Os registros temporais em forma de histórico de atividades desde a implementação da ideia até a execução podem ajudar a observar onde há falhas e no melhor cenário impulsionar ciclos encadeados de produtividade e hiperfoco. 
 
+ > [!TIP]
+ > A ideia segue a contrução de um modelo (apontar modelo aqui).
+
+# Objetivo
+
+Construir um modelo de agenda prático e eficaz ao ponto de criar rotinas produtivas para cumprir atividades. O estado final é alcançar o nível de produtividade estável por no mínimo 6 meses ou até o campo de atualizações do histórico de atividades obter maturidade suficiente para dispensar novas atualizações.
+
+A implementação da ideia parte do princípio de concentração com material complementar [1] (ajustar referência).
+# Estado
+
+130826 Início da construção do modelo;
+
+# Log (histórico de atividades)
+
+130826 Início da construção do modelo
+Restrição 
+Por vezes me perco na imensidão de material a organizar e, tudo, no fim, parece ter zero relevancia.
+Ação
+comecei a escrever o protocolo de observação da implementação do modelo e a próxima ação é começar a escrever o modelo para então organizar todas as atividades pendentes.
+Resultado
+
+# Referencias
+
+Galego, Augusto. Como eu parei de procrastinar. Youtube, canal Augusto Galego. Disponível em https://www.youtube.com/watch?v=bDdmfrLgLaw. Acesso em: 12 mar. 2026.
