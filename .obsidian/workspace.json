@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "p/prot-.md",
+                "file": "p/protcl-dailynote.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prot-"
+              "title": "protcl-dailynote"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "p/prot-.md",
+                "file": "p/protcl-dailynote.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prot-"
+              "title": "protcl-dailynote"
             }
           }
         ]
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "p/prot-.md",
+                "file": "p/protcl-dailynote.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -230,7 +230,7 @@
   "lastOpenFiles": [
     "dailynote/2026-08-10º.md",
     "news.blizzard.com/en-us/article/24267729/prepare-for-the-reckoning-lord-of-hatred-draws-near.md",
-    "p/prot-.md",
+    "p/protcl-dailynote.md",
     "dailynote/2026-08-12º.md",
     "o/organizar-obsidian.md",
     "dailynote/2026-08-13º.md",
