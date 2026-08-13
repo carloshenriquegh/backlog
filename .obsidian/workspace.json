@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a/agenda26.md",
+                "file": "p/protocol-agenda26.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -232,10 +232,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "21360a05edf79466",
+  "active": "16f329164b48190f",
   "lastOpenFiles": [
-    "a/agenda25.md",
     "a/agenda26.md",
+    "a/agenda25.md",
     "n/notas-prismaticas.md",
     "p/protocol-agenda26.md",
     "templates/template-protocol.md",
