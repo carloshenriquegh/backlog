@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "p/protocol-dailynote.md",
+                "file": "templates/template-common.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "protocol-dailynote"
+              "title": "template-common"
             }
           },
           {
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "p/protocol-dailynote.md",
+                "file": "templates/template-common.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -228,11 +228,13 @@
   },
   "active": "19cbc7a728e27ce1",
   "lastOpenFiles": [
+    "t/tags.md",
+    "t/templater-date-momentjs.md",
+    "p/protocol-dailynote.md",
     "githubmarkdown-alerts.png",
     "g/github-markdown.md",
     "g/github-doc.md",
     "g/github-carloshenriquecrx.md",
-    "p/protocol-dailynote.md",
     "dailynote/2026-08-10º.md",
     "news.blizzard.com/en-us/article/24267729/prepare-for-the-reckoning-lord-of-hatred-draws-near.md",
     "dailynote/2026-08-12º.md",
@@ -253,7 +255,6 @@
     "dailynote/2026-04-7º.md",
     "dailynote/2026-04-6º.md",
     "dailynote/2026-04-5º.md",
-    "dailynote/2026-04-4º.md",
     "Pasted image 20260804203533.png",
     "Pasted image 20260726214614.png",
     "Pasted image 20260726212520.png",
@@ -263,7 +264,6 @@
     "Pasted image 20260724171721.png",
     "Pasted image 20260718005114.png",
     "Pasted image 20260717195904.png",
-    "Pasted image 20260717195537.png",
     "news.blizzard.com/en-us/article/24267729",
     "news.blizzard.com/en-us/article",
     "news.blizzard.com/en-us",
