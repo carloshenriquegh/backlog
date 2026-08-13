@@ -5,25 +5,31 @@
  > [!TIP]
  > A ideia segue a construção e aplicação de um modelo (apontar modelo aqui).
 
-# Objetivo
+# 1. Objetivo
 
 Construir um modelo de agenda prático e eficaz ao ponto de criar rotinas produtivas para cumprir atividades. O estado final é alcançar o nível de produtividade estável por no mínimo 6 meses ou até o campo de atualizações do histórico de atividades obter maturidade suficiente para dispensar novas atualizações.
 
 A implementação da ideia parte do princípio de concentração com material complementar [1] (ajustar referência).
-# Estado
+# 2. Estado
 
 130826 Início da construção do modelo;
 
-# Log (histórico de atividades)
+# 3. Log (histórico de atividades)
 
 ## 130826 Início da construção do modelo
 
-==Restrição== 
-Por vezes me perco na imensidão de material a organizar e, tudo, no fim, parece ter zero relevancia.
-==Ação==
-Comecei a escrever o protocolo de observação da implementação do modelo da agenda e a próxima ação é começar a escrever o modelo para então organizar todas as atividades pendentes.
-==Resultado== Com o modelo do primeiro protocolo funcional consigo replicar para os próximos.
+### Restrição
 
-# Referencias
+Por vezes me perco na imensidão de material a organizar e, tudo, no fim, parece ter zero relevancia.
+
+### Ação
+
+Comecei a escrever o protocolo de observação da implementação do modelo da agenda e a próxima ação é começar a escrever o modelo para então organizar todas as atividades pendentes.
+
+### Resultado
+
+Com o modelo do primeiro protocolo funcional consigo replicar para os próximos.
+
+# 4. Referencias
 
 Galego, Augusto. Como eu parei de procrastinar. Youtube, canal Augusto Galego. Disponível em https://www.youtube.com/watch?v=bDdmfrLgLaw. Acesso em: 12 mar. 2026.
