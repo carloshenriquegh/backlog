@@ -16,12 +16,13 @@ A implementação da ideia parte do princípio de concentração com material co
 
 # Log (histórico de atividades)
 
-130826 Início da construção do modelo
-Restrição 
+## 130826 Início da construção do modelo
+
+==Restrição== 
 Por vezes me perco na imensidão de material a organizar e, tudo, no fim, parece ter zero relevancia.
-Ação
+==Ação==
 comecei a escrever o protocolo de observação da implementação do modelo e a próxima ação é começar a escrever o modelo para então organizar todas as atividades pendentes.
-Resultado
+==Resultado== Com o modelo do primeiro protocolo funcional consigo replicar.
 
 # Referencias
 
