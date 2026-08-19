@@ -1,3 +1,7 @@
+# Database
+
+[https://eip.gg/bg3/db/](https://eip.gg/bg3/db/)
+
 # Team
 
 (Melee) ? - The eletric monk
