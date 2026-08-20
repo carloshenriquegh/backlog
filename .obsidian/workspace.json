@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "b/bd3.md",
+                "file": "dailynote/2026-08-20º.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bd3"
+              "title": "2026-08-20º"
             }
           }
         ]
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "b/bd3.md",
+                "file": "dailynote/2026-08-20º.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -214,8 +214,9 @@
   },
   "active": "21360a05edf79466",
   "lastOpenFiles": [
-    "b/bdb.md",
     "b/bd3.md",
+    "dailynote/2026-08-20º.md",
+    "b/bdb.md",
     "dailynote/2026-08-19º.md",
     "i/iptu.md",
     "dailynote/2026-08-18º.md",
@@ -242,7 +243,6 @@
     "p/provadevida.md",
     "t/tags.md",
     "t/templater-date-momentjs.md",
-    "g/github-markdown.md",
     "Pasted image 20260804203533.png",
     "Pasted image 20260726214614.png",
     "Pasted image 20260726212520.png",
