@@ -98,6 +98,16 @@
               "icon": "lucide-file",
               "title": "protocol-aantiparalisia"
             }
+          },
+          {
+            "id": "dcfbd9ad6ae3630c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
           }
         ],
         "currentTab": 1
@@ -293,14 +303,14 @@
   },
   "active": "dc95ba3196634f31",
   "lastOpenFiles": [
-    "s/saude-dina-itu.md",
+    "p/protocol-aantiparalisia.md",
     "a/agenda26.md",
+    "s/saude-dina-itu.md",
     "a/anotacao-sobre.md",
     "templates/template-dailynote.md",
     "dailynote/2026-08-25º.md",
     "c/admin-ape.md",
     "c/admin-nu.md",
-    "p/protocol-aantiparalisia.md",
     "a/agenda25.md",
     "p/admin-provadevida.md",
     "m/admin-mercantil.md",

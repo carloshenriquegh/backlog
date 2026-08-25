@@ -54,7 +54,8 @@ AGO 31 SEG
 ## Setembro Semana 2
 
 6 DOM
-7 SEG
+7 SEG 
+- [admin-mercantil](admin-mercantil.md)
 8 TER 
 9 QUA
 10 QUI
@@ -95,7 +96,8 @@ OUT 3 SAB
 4 DOM
 5 SEG
 6 TER
-7 QUA
+7 QUA 
+- [admin-mercantil](admin-mercantil.md)
 8 QUI
 9 SEX
 10 SAB
@@ -145,6 +147,7 @@ OUT 3 SAB
 
 8 DOM
 9 SEG
+- [admin-mercantil](admin-mercantil.md)
 10 TER
 11 QUA
 12 QUI
@@ -183,6 +186,7 @@ NOV 30 SEG
 
 6 DOM
 7 SEG
+- [admin-mercantil](admin-mercantil.md)
 8 TER
 9 QUA
 10 QUI
