@@ -25,7 +25,7 @@
 18 TER
 19 QUA
 20 QUI 
-- exame de urina e entregar no laboratorio ([saude-dina-itu](saude-dina-itu.md)); 
+- exame de urina e entregar no laboratorio ([saude-dina-itu](/s/saude-dina-itu.md)); 
 21 SEX
 22 SAB
 ## Agosto Semana 4
@@ -36,7 +36,7 @@
 26 QUA
 27 QUI
 28 SEX
-- buscar exame urina ([saude-dina-itu](saude-dina-itu.md));
+- buscar exame urina ([saude-dina-itu](/s/saude-dina-itu.md));
 29 SAB
 # Setembro
 
@@ -55,9 +55,9 @@ AGO 31 SEG
 
 6 DOM
 7 SEG 
-- [admin-mercantil](admin-mercantil.md)
+- [admin-mercantil](/a/admin-mercantil.md)
 8 TER 
-- 
+- [admin-condominio](/a/admin-condominio.md)
 9 QUA
 10 QUI
 11 SEX
