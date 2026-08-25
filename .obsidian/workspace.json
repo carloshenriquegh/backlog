@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "p/protocol-agenda26.md",
+                "file": "p/protocol-aparalitico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "protocol-agenda26"
+              "title": "protocol-aparalitico"
             }
           }
         ]
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "p/protocol-agenda26.md",
+                "file": "p/protocol-aparalitico.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -212,10 +212,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "06071423286f404a",
+  "active": "f1eb5cc16d156b8a",
   "lastOpenFiles": [
-    "p/protocol-template.md",
     "p/protocol-agenda26.md",
+    "p/protocol-aparalitico.md",
+    "p/protocol-template.md",
     "dailynote/2026-08-25º.md",
     "dailynote/2026-08-24º.md",
     "dailynote/2026-08-23º.md",
@@ -240,7 +241,6 @@
     "dailynote/2026-03-12 Procrastinar II.md",
     "resources/github-markdown-img.png",
     "b/badges.md",
-    "templates/template-common.md",
     "github-markdown-alerts.png",
     "Pasted image 20250327083157.png",
     "Pasted image 20260804203533.png",
