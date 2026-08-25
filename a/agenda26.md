@@ -100,6 +100,7 @@ OUT 3 SAB
 7 QUA 
 - [admin-mercantil](admin-mercantil.md)
 8 QUI
+- [admin-condominio](/a/admin-condominio.md)
 9 SEX
 10 SAB
 
@@ -149,6 +150,7 @@ OUT 3 SAB
 8 DOM
 9 SEG
 - [admin-mercantil](admin-mercantil.md)
+- [admin-condominio](/a/admin-condominio.md)
 10 TER
 11 QUA
 12 QUI
@@ -189,6 +191,7 @@ NOV 30 SEG
 7 SEG
 - [admin-mercantil](admin-mercantil.md)
 8 TER
+- [admin-condominio](/a/admin-condominio.md)
 9 QUA
 10 QUI
 11 SEX
