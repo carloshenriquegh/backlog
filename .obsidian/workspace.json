@@ -6,6 +6,7 @@
       {
         "id": "ae58cc24047aa5cf",
         "type": "tabs",
+        "dimension": 51.625,
         "children": [
           {
             "id": "b1f6988d11343017",
@@ -55,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a/agenda26.md",
+                "file": "saude-itu.mkd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "agenda26"
+              "title": "saude-itu.mkd"
             }
           }
         ],
@@ -69,6 +70,7 @@
       {
         "id": "2ca9fa22772b1994",
         "type": "tabs",
+        "dimension": 48.375,
         "children": [
           {
             "id": "4a0be98f27412263",
@@ -165,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a/agenda26.md",
+                "file": "saude-itu.mkd.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -292,6 +294,8 @@
   },
   "active": "b31dd888f1f22704",
   "lastOpenFiles": [
+    "a/agenda26.md",
+    "saude-itu.mkd.md",
     "p/protocol-aantiparalisia.md",
     "a/agenda25.md",
     "c/admin-ape.md",
@@ -316,8 +320,6 @@
     "dailynote/2026-08-18º.md",
     "i/inss.md",
     "dailynote/2026-08-17º.md",
-    "dailynote/2026-08-16º.md",
-    "dailynote/2026-08-15º.md",
     "resources/github-markdown-img.png",
     "github-markdown-alerts.png",
     "Pasted image 20250327083157.png",

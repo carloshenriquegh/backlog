@@ -25,7 +25,7 @@
 18 TER
 19 QUA
 20 QUI 
-- [x] exame de urina e entregar no laboratorio; 
+- exame de urina e entregar no laboratorio ([saude-itu](saude-itu.mkd)); 
 21 SEX
 22 SAB
 ## Agosto Semana 4
@@ -36,6 +36,7 @@
 26 QUA
 27 QUI
 28 SEX
+- buscar exame urina ([saude-itu](saude-itu.mkd));
 29 SAB
 # Setembro
 
