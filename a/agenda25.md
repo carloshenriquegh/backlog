@@ -1,9 +1,9 @@
 # Marcadores contínuos
 
 carloshrq
-contas [condominio-caminhosdocerrado](/c/condominio-caminhosdocerrado.md) [internet-nio](/i/internet-nio.md)
+contas [admin-condominio](admin-condominio.md) [internet-nio](/i/internet-nio.md)
 datas [datas-aniversarios](/d/datas-aniversarios.md)
-finan [bdb](/b/bdb.md) [mdb](/m/mdb.md) [creditomae](/c/creditomae.md) [checar-aluguelapt](/c/checar-aluguelapt.md)
+finan [admin-bdb](admin-bdb.md) [admin-mercantil](admin-mercantil.md) [creditomae](/c/creditomae.md) [checar-aluguelapt](/c/checar-aluguelapt.md)
 importante [prep](/p/prep.md) adicionar gearscore?, remover reguladores e outro (?), tornar importante um controle e adicionar o controle de receitas dina, não se esquecer de adicionar as frases de wallpaper e os símbolos de fundo?
 logs [diario-aleatorio](diario-aleatorio.md)
 reguladores [perguntas-redux](/p/perguntas-redux.md) [perguntas-extendidas](/p/perguntas-extendidas) [versao-mapa](/v/versao-emocional.md) [descida-ínfera](/p/psicologia-perguntas.md)
@@ -18,13 +18,13 @@ outro [notas-prismaticas](/n/notas-prismaticas.md)?
 4 SAB
 5 DOM
 6 SEG
-7 TER [mdb](/m/mdb.md)
-8 QUA [condominio-caminhosdocerrado](/c/condominio-caminhosdocerrado.md) [internet-nio](/i/internet-nio.md)
+7 TER [admin-mercantil](admin-mercantil.md)
+8 QUA [admin-condominio](admin-condominio.md) [internet-nio](/i/internet-nio.md)
 9 QUI 
 10 SEX [backlog-obsidian](backlog-obsidian.md)
 11 SAB
 12 DOM [backlog-obsidian](backlog-obsidian.md)
-13 SEG [mdb](/m/mdb.md) -> [provadevida-mdb](/p/provadevida.md)
+13 SEG [admin-mercantil](admin-mercantil.md) -> [provadevida-mdb](/p/provadevida.md)
 14 TER [checar-aluguelapt](/c/checar-aluguelapt.md)
 15 QUA
 ## parte 2 
@@ -41,7 +41,7 @@ outro [notas-prismaticas](/n/notas-prismaticas.md)?
 25 SAB
 26 DOM [weeklynote](/w/weeklynote.md)
 27 SEG
-28 TER [bdb](/b/bdb.md)
+28 TER [admin-bdb](admin-bdb.md)
 29 QUA
 30 QUI
 
@@ -56,8 +56,8 @@ outro [notas-prismaticas](/n/notas-prismaticas.md)?
 4 TER
 5 QUA
 6 QUI
-7 SEX [mdb](/m/mdb.md)
-8 SAB [condominio-caminhosdocerrado](/c/condominio-caminhosdocerrado.md) [internet-nio](/i/internet-nio.md)
+7 SEX [admin-mercantil](admin-mercantil.md)
+8 SAB [admin-condominio](admin-condominio.md) [internet-nio](/i/internet-nio.md)
 9 DOM 
 10 SEG [backlog-obsidian](backlog-obsidian.md)
 11 TER
@@ -79,7 +79,7 @@ outro [notas-prismaticas](/n/notas-prismaticas.md)?
 25 TER
 26 QUA [weeklynote](/w/weeklynote.md)
 27 QUI
-28 SEX [bdb](/b/bdb.md)
+28 SEX [admin-bdb](admin-bdb.md)
 29 SAB
 30 DOM
 
