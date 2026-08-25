@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a/abnt.md",
+                "file": "a/agenda25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "abnt"
+              "title": "agenda25"
             }
           }
         ]
@@ -40,8 +40,23 @@
               "icon": "lucide-file",
               "title": "agenda25"
             }
+          },
+          {
+            "id": "4b405c9d1683b28d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "p/protocol-aantiparalisia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "protocol-aantiparalisia"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a/abnt.md",
+                "file": "p/protocol-aantiparalisia.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -232,11 +247,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f1eb5cc16d156b8a",
+  "active": "4b405c9d1683b28d",
   "lastOpenFiles": [
     "a/agenda25.md",
-    "a/abnt.md",
     "p/protocol-aantiparalisia.md",
+    "a/abnt.md",
     "p/provadevida.md",
     "p/protocol-agenda26.md",
     "p/protocol-template.md",
