@@ -28,7 +28,7 @@ creditomae > admin-nu;
 19 admin-ape;
 28 admin-bdb;
 
-saude-medicacao, saude-sae, saude-prep, saude-receitas devem ser adicionados para suas respectivas areas.
+saude-medicacao, saude-dina-medicacao, saude-sae, saude-prep, saude-dina-receitas devem ser adicionados para suas respectivas areas.
 admin-balanço para organizar sua receita financeira, saída e balanço.
 social-viagem para deslocações.
 backlog-obsidian para organização semanal das notas.
