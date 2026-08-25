@@ -1,5 +1,3 @@
-> [!TIP] Domingos e pilhas
-> Pilhe atividades importantes que vão aparecer durante a semana no domingo. Não é necessário iniciar. É importante reservar o domingo para descanso.
 # Agosto
 
 ## Agosto Semana 1
@@ -27,7 +25,7 @@
 18 TER
 19 QUA
 20 QUI 
-- [ ] exame de urina e entregar no laboratorio 
+- [x] exame de urina e entregar no laboratorio; 
 21 SEX
 22 SAB
 ## Agosto Semana 4
