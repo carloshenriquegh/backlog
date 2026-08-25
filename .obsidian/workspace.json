@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-08-25º.md",
+                "file": "p/protocol-agenda26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-25º"
+              "title": "protocol-agenda26"
             }
           }
         ]
@@ -79,7 +79,7 @@
       {
         "id": "575455e527557e74",
         "type": "tabs",
-        "dimension": 49.61904761904762,
+        "dimension": 38.095238095238095,
         "children": [
           {
             "id": "2de0f9cbe5f345f5",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-08-25º.md",
+                "file": "p/protocol-agenda26.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -175,7 +175,7 @@
       {
         "id": "6e5f6f12179fc463",
         "type": "tabs",
-        "dimension": 50.38095238095238,
+        "dimension": 61.904761904761905,
         "children": [
           {
             "id": "06071423286f404a",
@@ -212,10 +212,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f1eb5cc16d156b8a",
+  "active": "06071423286f404a",
   "lastOpenFiles": [
-    "dailynote/2026-08-24º.md",
+    "p/protocol-template.md",
+    "p/protocol-agenda26.md",
     "dailynote/2026-08-25º.md",
+    "dailynote/2026-08-24º.md",
     "dailynote/2026-08-23º.md",
     "dailynote/2026-08-22º.md",
     "dailynote/2026-08-21º.md",
@@ -231,11 +233,9 @@
     "dailynote/2026-08-15º.md",
     "dailynote/2026-08-14º.md",
     "a/agenda26.md",
-    "p/protocol-agenda26.md",
     "a/agenda25.md",
     "n/notas-prismaticas.md",
     "templates/template-protocol.md",
-    "p/protocol-template.md",
     "dailynote/2026-03-12 Procrastinar.md",
     "dailynote/2026-03-12 Procrastinar II.md",
     "resources/github-markdown-img.png",
