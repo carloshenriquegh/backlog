@@ -54,10 +54,14 @@
             "id": "fb4fc0e1fe63b11c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "templates/template-dailynote.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "template-dailynote"
             }
           }
         ]
@@ -289,8 +293,11 @@
   },
   "active": "dc95ba3196634f31",
   "lastOpenFiles": [
-    "s/saude-dina-itu.md",
+    "a/anotacao-sobre.md",
     "a/agenda26.md",
+    "templates/template-dailynote.md",
+    "dailynote/2026-08-25º.md",
+    "s/saude-dina-itu.md",
     "c/admin-ape.md",
     "c/admin-nu.md",
     "p/protocol-aantiparalisia.md",
@@ -303,7 +310,6 @@
     "a/abnt.md",
     "p/protocol-agenda26.md",
     "p/protocol-template.md",
-    "dailynote/2026-08-25º.md",
     "dailynote/2026-08-24º.md",
     "dailynote/2026-08-23º.md",
     "dailynote/2026-08-22º.md",
@@ -313,8 +319,6 @@
     "dailynote/2026-08-19º.md",
     "i/iptu.md",
     "dailynote/2026-08-18º.md",
-    "i/inss.md",
-    "dailynote/2026-08-17º.md",
     "resources/github-markdown-img.png",
     "github-markdown-alerts.png",
     "Pasted image 20250327083157.png",
