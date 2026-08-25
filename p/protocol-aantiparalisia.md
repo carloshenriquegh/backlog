@@ -9,4 +9,4 @@ legenda
 20260825 1905 ? eu conseguiria revisar todas as notas do obsidian e adicionar um log de atualização em todas as notas importantes a fim de organizar a bagunça e terminar tudo hoje?
 20260825 1905 - eu acredito que sim porque devo fazer isso ao menos uma vez por semana e já adiei meses só tentando começar. Encontro pouca resistencia neste momento.
 20260825 1905 + só consigo pensar na imensidão de coisas antigas que vou encontrar, prestes a sofrer deleção, ou, no melhor dos casos, receber um log de atualização. Meu propósito e construir um hábito que vou ter que manter todas as semanas para conseguir clara inclinação a organização e construção de todos os propósitos que me cercam.
-20260825
+20260825 !
