@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a/agenda26.md",
+                "file": "a/admin-provadevida.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "agenda26"
+              "title": "admin-provadevida"
             }
           },
           {
@@ -39,46 +39,21 @@
           {
             "id": "487c8c71c1dcf458",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a/admin-net.md",
+                "file": "a/agenda26.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "admin-net"
-            }
-          },
-          {
-            "id": "b31dd888f1f22704",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "s/saude-dina-itu.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "saude-dina-itu"
-            }
-          },
-          {
-            "id": "fb4fc0e1fe63b11c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/template-dailynote.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "template-dailynote"
+              "title": "agenda26"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "2ca9fa22772b1994",
@@ -102,6 +77,7 @@
           {
             "id": "4b405c9d1683b28d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -109,6 +85,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "protocol-aantiparalisia"
             }
@@ -318,17 +295,17 @@
   "active": "4b405c9d1683b28d",
   "lastOpenFiles": [
     "a/agenda26.md",
-    "a/admin-bdb.md",
+    "a/admin-provadevida.md",
     "a/admin-net.md",
-    "a/agenda25.md",
-    "p/protocol-aantiparalisia.md",
     "s/saude-dina-itu.md",
+    "p/protocol-aantiparalisia.md",
+    "a/admin-bdb.md",
+    "a/agenda25.md",
     "a/anotacao-sobre.md",
     "templates/template-dailynote.md",
     "dailynote/2026-08-25º.md",
     "a/admin-ape.md",
     "a/admin-nu.md",
-    "p/admin-provadevida.md",
     "m/admin-mercantil.md",
     "a/admin-condominio.md",
     "a/abnt.md",
