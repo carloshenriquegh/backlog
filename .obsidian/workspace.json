@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "p/prep.md",
+                "file": "r/readme-foreign-svg.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prep"
+              "title": "readme-foreign-svg"
             }
           }
         ],
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "p/prep.md",
+                "file": "r/readme-foreign-svg.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -231,7 +231,20 @@
   },
   "active": "c6ab0f3224b3cac3",
   "lastOpenFiles": [
+    "pdf/c-completo-total.pdf",
+    "p/psoriase.md",
+    "p/puer-aeternus2.md",
+    "p/protocol-agenda26.md",
+    "p/psique-questionario.md",
+    "p/psique.md",
+    "p/psicologia-perguntas.md",
+    "p/protocol-aantiparalisia.md",
+    "p/prompt-alwaysadm-Win10.md",
     "p/pratica-deliberada.md",
+    "p/project-name.md",
+    "p/produtividade-japao.md",
+    "p/produtividade.md",
+    "p/prep.md",
     "p/portfolio.md",
     "p/pkm.md",
     "p/pointts-congelamento.md",
@@ -244,20 +257,7 @@
     "p/pcr.md",
     "o/obsidian-tutos.md",
     "p/pagamentos.md",
-    "o/organizar-obsidian.md",
-    "o/obsidian-doc.md",
-    "o/obsidian-callouts-ntwic.md",
-    "n/nucleo-laboratorio.md",
-    "n/notas-prismaticas.md",
     "n/nextjsRoadmap.jpg",
-    "n/neurovox-procastinacao.md",
-    "n/neurovox-fortificacao-mental.md",
-    "n/neurovox-dependencia-emocional.md",
-    "mermaid/mermaid-class-diagram.md",
-    "mermaid/mermaid.md",
-    "m/markdown-doc.md",
-    "m/momentjs.md",
-    "m/mega-meus-links.md",
     "resources/github-markdown-img.png",
     "github-markdown-alerts.png",
     "Pasted image 20250327083157.png",
