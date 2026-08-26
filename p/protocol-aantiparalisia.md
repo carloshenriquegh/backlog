@@ -49,3 +49,6 @@ Sinto que apaguei tudo o que poderia ter apagado e a necessidade de incluir um l
 É como se tivesse tirado um peso das minhas costas e sinto um certo alívio. Como se agora eu pudesse começar o que eu preciso. Há pequenas notas para serem criadas e o ajuste da nota diaria.
 
 # 20260826 
+
+20260826 1831 ? eu consigo terminar ainda hoje de atualizar o modelo da nota diária de acordo com a anotação em papel? Eu já sei das seções principais com base no metodo de lembrete com base no vídeo do Galego *[Como eu parei de procastinar](https://www.youtube.com/watch?v=bDdmfrLgLaw)*.
+
