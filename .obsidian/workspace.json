@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "t/tfi.md",
+                "file": "templates/template-dailynote.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -261,10 +261,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6fa864633818198e",
+  "active": "b0dd52c9b1b78a27",
   "lastOpenFiles": [
-    "s/saude-prep.md",
     "t/tfi.md",
+    "s/saude-prep.md",
     "a/agenda26.md",
     "templates/template-dailynote.md",
     "dailynote/2026-08-26º.md",
