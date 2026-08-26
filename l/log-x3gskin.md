@@ -38,13 +38,7 @@ Tecido glandial receptivo (POSITIVO):
 - Lava com agua corrente (sem sabão);
 - Oleo de coco (aplicador conta-gotas);
 - lubrificante (redlube pandatoys);
-- sabonetes, segue a tabela dos testados:
-
-| Nivea MILK | na fila |
-| ---------- | ------- |
-| Lux        | na fila |
-| phebo      | na fila |
-
+- sabonetes.
 # 2026-03-12th Recuperação III
 
 Todos os pontos agora tem um pequeno pontinho branco no meio bem pequeno, como se fosse um nova pele. O cheiro esta um pouco forte mas acredito que é devido a lavagem somente com agua e o processo de cicatrização que gera pele morta. 
