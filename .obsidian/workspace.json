@@ -9,93 +9,20 @@
         "dimension": 53.87499999999999,
         "children": [
           {
-            "id": "dc95ba3196634f31",
+            "id": "23623d7149a15e4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a/admin-provadevida.md",
+                "file": "b/backlog-obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "admin-provadevida"
-            }
-          },
-          {
-            "id": "b1f6988d11343017",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "s/saude-dina-itu.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "saude-dina-itu"
-            }
-          },
-          {
-            "id": "487c8c71c1dcf458",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "a/agenda26.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "agenda26"
-            }
-          },
-          {
-            "id": "4067e7bbe5266710",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "s/social-viagem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "social-viagem"
-            }
-          },
-          {
-            "id": "af8c17cd42e28f0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "s/saude-sae.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "saude-sae"
-            }
-          },
-          {
-            "id": "53b8b99cb53d108f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "n/notas-prismaticas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "notas-prismaticas"
+              "title": "backlog-obsidian"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "2ca9fa22772b1994",
@@ -116,48 +43,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "protocol-aantiparalisia"
-            }
-          },
-          {
-            "id": "dcfbd9ad6ae3630c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "d/datas-aniversarios.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "datas-aniversarios"
-            }
-          },
-          {
-            "id": "c06b463a415479f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "a/admin-balanço.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "admin-balanço"
-            }
-          },
-          {
-            "id": "3489920628217b45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "d/discord-profile.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "discord-profile"
             }
           }
         ]
@@ -226,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "p/protocol-aantiparalisia.md",
+                "file": "b/backlog-obsidian.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -351,34 +236,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "06071423286f404a",
+  "active": "23623d7149a15e4f",
   "lastOpenFiles": [
+    "a/agenda26.md",
+    "a/Untitled.md",
+    "a/teste2.md",
+    "a/tsete3.md",
+    "r/roadmap-java-iniciante.md",
+    "r/roadmap-java.md",
+    "p/protocol-aantiparalisia.md",
+    "a/anotacao-sobre.md",
+    "a/admin-provadevida.md",
+    "a/admin-nu.md",
+    "a/admin-net.md",
+    "a/admin-condominio.md",
+    "a/admin-bdb.md",
+    "a/admin-balanço.md",
+    "a/admin-ape.md",
     "n/notas-prismaticas.md",
     "a/agenda25.md",
-    "a/agenda26.md",
-    "p/protocol-aantiparalisia.md",
     "d/datas-aniversarios.md",
     "d/discord-profile.md",
     "d/discord-helpers.md",
     "d/discord.md",
     "d/dina.md",
     "d/diario-aleatorio.md",
-    "a/admin-balanço.md",
     "s/saude-sae.md",
     "s/saude-dina-receitas.md",
     "s/social-viagem.md",
-    "s/saude-dina-itu.md",
-    "a/admin-provadevida.md",
-    "a/admin-net.md",
-    "a/admin-bdb.md",
-    "a/anotacao-sobre.md",
-    "templates/template-dailynote.md",
-    "dailynote/2026-08-25º.md",
-    "a/admin-ape.md",
-    "a/admin-nu.md",
-    "m/admin-mercantil.md",
-    "a/admin-condominio.md",
-    "a/abnt.md",
     "resources/github-markdown-img.png",
     "github-markdown-alerts.png",
     "Pasted image 20250327083157.png",
