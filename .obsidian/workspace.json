@@ -51,7 +51,8 @@
               "title": "2026-03-12 Procrastinar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c6fc583f294774a2",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/template-dailynote.md",
+                "file": "dailynote/2026-08-26º.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -261,11 +262,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b0dd52c9b1b78a27",
+  "active": "9585d961b18fe82a",
   "lastOpenFiles": [
     "dailynote/2026-03-12 Procrastinar.md",
-    "templates/template-dailynote.md",
     "dailynote/2026-08-26º.md",
+    "templates/template-dailynote.md",
     "p/protocol-aantiparalisia.md",
     "p/protocol-agenda26.md",
     "p/portfolio.md",
