@@ -22,21 +22,8 @@
               "icon": "lucide-file",
               "title": "protocol-aantiparalisia"
             }
-          },
-          {
-            "id": "0c3af75d535b19d3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "resources-offlink/curriculo-ats-keywords.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "curriculo-ats-keywords"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources-offlink/curriculo-ats-keywords.jpg",
+                "file": "p/protocol-aantiparalisia.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -223,23 +210,23 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "0c3af75d535b19d3",
+  "active": "06071423286f404a",
   "lastOpenFiles": [
+    "resources-offlink/thinking-piramid.jpg",
+    "resources-offlink/roadmapDOTsh.jpg",
+    "resources-offlink/pkm-tree-example.png",
+    "resources-offlink/exemplo-vaga-ruby.jpg",
+    "resources-offlink/curriculo-ats-keywords.jpg",
     "resources-offlink/architectural-styles.png",
     "resources-offlink/whatsapp-supported-markdown.jpg",
-    "resources-offlink/thinking-piramid.jpg",
-    "resources-offlink/pkm-tree-example.png",
-    "resources-offlink/curriculo-ats-keywords.jpg",
-    "resources/svg-animated-based-on-color-scheme.gif",
-    "resources/variaveis-de-ambiente-windows.png",
-    "resources/readme-nikolalsvk-github-profile.gif",
-    "resources/readme-hello-backgroundAnimated.svg",
-    "resources/orcamento-hemograma110825.jpg",
-    "resources/github-markdown-img.png",
+    "readme-hello-animatedColorScheme.svg",
+    "comprovante-exameNucleo120825.jpg",
+    "github-markdown-img.png",
+    "orcamento-hemograma110825.jpg",
+    "i/img",
     "README.md",
     "y/yt-dlp.md",
     "w/windefender.md",
@@ -274,7 +261,6 @@
     "y",
     "x",
     "w",
-    "v",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "T/template/template-newport/template-newport-v2.canvas",

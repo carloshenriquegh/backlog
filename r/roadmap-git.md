@@ -23,7 +23,7 @@ Copie o endereço.
 
 Na janela "Propriedades do sistema" que se abre clique em "Variáveis de ambiente." 
 
-![Variaveis de ambiente windows](/resources/variaveis-de-ambiente-windows.png)
+![Variaveis de ambiente windows](variaveis-de-ambiente-windows.png)
 No topo da janela que se abre "Variáveis de usuário" clique duas vezes em "*Path*".
 
 Clique em "Novo" cole o endereço que copiamos até o diretório "*bin*". Deve ficar assim:

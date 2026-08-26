@@ -55,7 +55,7 @@ protocolo de atendimento: 478563797
 Comprovante de pagamento
 
 
-![comprovante-exameNucleo120825](/resources/comprovante-exameNucleo120825.jpg)
+![comprovante-exameNucleo120825](comprovante-exameNucleo120825.jpg)
 ## quinta, 14 de agosto
 
 ### (coletado) 8h0 Coleta de sangue Laboratório Nucleo

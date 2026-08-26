@@ -55,7 +55,7 @@ First, create SVG file in your favorite editor like `hello.svg`:
 
 Awesome, if you open it, it should look like this:
 
-![readme-hello-complex](/resources/readme-hello-complex.svg)
+![readme-hello-complex](readme-hello-complex.svg)
 
 The new changes add a bit of style to the whole image. The text is centered and the font changed. Also, the emoji hand is waving to us. We also used the prefers-reduced-motion CSS rule to turn off animations in case users prefer it that way. So, if do not see the animations inside images, make sure your accessibility options allow motion or animations. Here’s a guide on how to [toggle motion/animations on a system level](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion#user_preferences).
 
@@ -134,7 +134,7 @@ Great, let’s make our SVG even fancier.
 
 Let’s see what we did:
 
-![readme-hello-backgroundAnimated](/resources/readme-hello-backgroundAnimated.svg)
+![readme-hello-backgroundAnimated](readme-hello-backgroundAnimated.svg)
 
 Now, the image has its background animated. Almost ready to be showcased on a GitHub README. Let’s take it a step further. We are going to use the `prefers-color-scheme` [CSS rule](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme) to support light and dark modes. This is how to do it:
 
@@ -225,11 +225,11 @@ Now, the image has its background animated. Almost ready to be showcased on a Gi
 
 Here’s the final version (pro tip: toggle your system’s color scheme to see the gradient change):
 
-![Animated Color Scheme](/resources/readme-hello-animatedColorScheme.svg)
+![Animated Color Scheme](readme-hello-animatedColorScheme.svg)
 
 And here’s how it changes depending on the color scheme:
 
-![Animated base on color](/resources/svg-animated-based-on-color-scheme.gif)
+![Animated base on color](svg-animated-based-on-color-scheme.gif)
 
 What we did is the following:
 
