@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "n/nucleo-laboratorio-dina.md",
+                "file": "s/saude-dina-itu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nucleo-laboratorio-dina"
+              "title": "saude-dina-itu"
             }
           }
         ]
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "n/nucleo-laboratorio-dina.md",
+                "file": "s/saude-dina-itu.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -213,6 +213,7 @@
   },
   "active": "b0dd52c9b1b78a27",
   "lastOpenFiles": [
+    "n/nucleo-laboratorio-dina.md",
     "s/saude-dina-itu.md",
     "a/agenda26.md",
     "dailynote/2026-08-26º.md",
@@ -250,7 +251,6 @@
     "w/weeklynotemodel-template.md",
     "v/vscode-settingsjson.md",
     "v/vscode-plugins.md",
-    "v/versao-emocional.md",
     "pdf/c-completo-total.pdf",
     "news.blizzard.com/en-us/article/24267729",
     "news.blizzard.com/en-us/article",

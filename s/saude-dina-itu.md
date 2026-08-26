@@ -1,4 +1,4 @@
-# acesso
+[acesso](laboratorio-nucleo-dina.md)
 
 # 2026
 
