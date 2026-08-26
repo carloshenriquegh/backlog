@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "d/discord.md",
+                "file": "d/discord-profile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "discord"
+              "title": "discord-profile"
             }
           }
         ]
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "d/discord.md",
+                "file": "d/discord-profile.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -238,6 +238,8 @@
   },
   "active": "23623d7149a15e4f",
   "lastOpenFiles": [
+    "d/discord-helpers.md",
+    "d/discord-alerts-callouts.md",
     "s/saude-dina-medicacao.md",
     "d/dina.md",
     "a/agenda26.md",
@@ -262,8 +264,6 @@
     "b/backlog-obsidian.md",
     "a/Untitled.md",
     "a/teste2.md",
-    "a/tsete3.md",
-    "r/roadmap-java-iniciante.md",
     "resources/github-markdown-img.png",
     "github-markdown-alerts.png",
     "Pasted image 20250327083157.png",
