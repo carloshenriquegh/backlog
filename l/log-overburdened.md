@@ -7,7 +7,7 @@ Desde entao uma nuvem de tristeza nasceu em mim. Seja culpa por la não estar no
 
 Me sinto então acorrentado a uma realidade imprevisivel da qual nao me conecto. A realidade dos acidentes imprevisiveis, da guarda de um ancião, da impotencia diante de controlar atividades perigosas. E meus problemas pessoais e profissionais? Pouco importam, a esse ponto, todos reduzidos a farelos.
 
-O tom do texto pode sim soar mesquinho e egoísta. Afinal um neto que não quer se preocupar com sua avó? Sim, eis o problema. Preocupar se além da conta, hipersensibilidade no seu maior grau seja negativa ou positiva, e no fim, falta o agente regulador, a presença masculina, que oferece apoio e controle. Importante ressaltar que tal entidade é rarissima deste cinco décadas, ou mais. Eu sequer a vislumbrei nos poucos nucleos familiares que conheci.
+O tom do texto pode sim soar mesquinho e egoísta. Afinal um neto que não quer se preocupar com sua avó? Sim, eis o problema. Preocupar se além da conta, hipersensibilidade no seu maior grau seja negativa ou positiva, e no fim, falta o agente regulador, a presença masculina, que oferece apoio e controle. Importante ressaltar que tal entidade é rarissima desde cinco décadas, ou mais. Eu sequer a vislumbrei nos poucos nucleos familiares que conheci.
 O ponto aqui não é exaltar uma entidade masculina que seja a solução. A fantasia da ideia, afinal, é sedutora.
 
 O problema é que a nuvem de tristeza que senti cresceu a tal ponto de se tornar colossal. E o incomodo me motivou a digitar o texto para registro. Acreditei que assim poderia aliviar.

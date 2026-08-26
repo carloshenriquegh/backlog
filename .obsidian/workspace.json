@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a/agenda26.md",
+                "file": "l/log-overburdened.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "agenda26"
+              "title": "log-overburdened"
             }
           }
         ],
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a/agenda26.md",
+                "file": "l/log-overburdened.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -231,32 +231,32 @@
   },
   "active": "aea4228507951a0a",
   "lastOpenFiles": [
+    "l/liveserver-vscode.md",
+    "l/log-modelo.md",
+    "l/linkedin-profile.md",
+    "l/laravel-phpini.md",
+    "l/laravel-guia.md",
+    "l/laravel-doc.md",
+    "java/java-intro.md",
+    "i/iptu.md",
+    "i/introducao-markdown.md",
+    "i/internationalization-github.md",
+    "i/intelbras-cam.md",
     "i/inss.md",
     "i/imposto-renda.md",
     "i/iframe-w3.md",
     "i/ia-verificação.md",
-    "i/icon-source.md",
     "h/html-doc.md",
     "gists/vscode-minimalista.md",
     "g/github-markdown.md",
-    "g/golang.md",
     "g/github-doc.md",
     "g/github-carloshenriquecrx.md",
     "g/git-tree.md",
     "g/git-authsshkey.md",
     "f/freela-valor.md",
     "f/farever.md",
-    "f/frases.md",
-    "e/excalidraw-doc.md",
-    "e/exp33.md",
-    "e/english-quotes.md",
-    "d/discord-profile.md",
-    "d/discord-helpers.md",
-    "s/saude-dina-exames.md",
-    "dailynote/2026-06-18 Farever.md",
-    "dailynote/2026-06-19ºDescolar.md",
-    "dailynote/2026-05-13 DiabloIV.md",
-    "dailynote/2026-05-13º.md",
+    "a/agenda26.md",
+    "i/icon-source.md",
     "resources/github-markdown-img.png",
     "github-markdown-alerts.png",
     "Pasted image 20250327083157.png",
