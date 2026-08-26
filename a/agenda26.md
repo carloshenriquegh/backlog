@@ -61,6 +61,7 @@ AGO 31 SEG
 9 QUA
 10 QUI
 11 SEX
+- [admin-net](/a/admin-net.md)
 12 SAB
 ## Setembro Semana 3
 
@@ -108,6 +109,7 @@ OUT 3 SAB
 
 11 DOM
 12 SEG
+- [admin-net](/a/admin-net.md)
 13 TER
 14 QUA
 15 QUI
@@ -154,6 +156,7 @@ OUT 3 SAB
 10 TER
 11 QUA
 12 QUI
+- [admin-net](/a/admin-net.md)
 13 SEX
 14 SAB
 ## Novembro Semana 3
@@ -196,6 +199,7 @@ NOV 30 SEG
 10 QUI
 11 SEX
 12 SAB
+- [admin-net](/a/admin-net.md)
 ## Dezembro Semana 3
 
 13 DOM
