@@ -44,3 +44,6 @@ backlog-obsidian para organização semanal das notas.
 - [x] deleção da agenda 25;
 
 Sigo com a revisão e deleção de varias notas.
+Sinto que apaguei tudo o que poderia ter apagado e a necessidade de incluir um log de atualização em cada nota é um exagero sem fim porque o que vale afinal é a informação que contém a nota, que na maioria das vezes, é um pequeno trecho de texto.
+
+É como se tivesse tirado um peso das minhas costas e sinto um certo alívio. 
