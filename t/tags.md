@@ -20,9 +20,9 @@
 #dataview [[dataview]] [3 Amazing Obsidian Plugins Dataview, Outliner and Templater](https://www.youtube.com/watch?v=2234DXKbNgM&t=1973s)
 
 #diagram
-	#diagram/database [[diagram-fluxogram]]
-	#diagram/sketchnote [[diagram-fluxogram]]
-	#diagram/flowchart [[diagram-fluxogram]]
+	#diagram/database [[diagrama-fluxograma]]
+	#diagram/sketchnote [[diagrama-fluxograma]]
+	#diagram/flowchart [[diagrama-fluxograma]]
 
 #filename
 	#filename/suggestion  [[dataname-suggestion]]

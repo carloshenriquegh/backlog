@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "d/diagram-fluxogram.md",
+                "file": "d/discord.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "diagram-fluxogram"
+              "title": "discord"
             }
           }
         ]
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "d/diagram-fluxogram.md",
+                "file": "d/discord.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -238,6 +238,11 @@
   },
   "active": "23623d7149a15e4f",
   "lastOpenFiles": [
+    "s/saude-dina-medicacao.md",
+    "d/dina.md",
+    "a/agenda26.md",
+    "d/diagrama-fluxograma.md",
+    "d/diario-aleatorio.md",
     "d/desodorantes.md",
     "d/datas-aniversarios.md",
     "d/design-system.md",
@@ -255,15 +260,10 @@
     "b/badges.md",
     "b/backup-backlog-obsidian.md",
     "b/backlog-obsidian.md",
-    "a/agenda26.md",
     "a/Untitled.md",
     "a/teste2.md",
     "a/tsete3.md",
     "r/roadmap-java-iniciante.md",
-    "r/roadmap-java.md",
-    "a/anotacao-sobre.md",
-    "a/admin-provadevida.md",
-    "a/admin-nu.md",
     "resources/github-markdown-img.png",
     "github-markdown-alerts.png",
     "Pasted image 20250327083157.png",
