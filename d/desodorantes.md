@@ -1,3 +1,6 @@
-Old Spice VIP 5.5 (+0.8)
-Old Spice Brisa do Mar 5 (-0.5)
-Axe Apollo 4.9 (-0.8)
+
+|                 | Nota | Projeção/Duração |
+| --------------- | ---- | ---------------- |
+| Old Spice VIP   | 5.5  | 2/4              |
+| Old Spice Brisa | 4.5  | 1/1              |
+| Axe Apollo      | 3    | 1/1              |

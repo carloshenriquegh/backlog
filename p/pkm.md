@@ -84,7 +84,7 @@ Personal Knowlegde Management
 [Laravel Official](https://www.youtube.com/@LaravelPHP)
 	[Welcome to Laravel](https://www.youtube.com/watch?v=BP7auge-WfA&list=PLcjapmjyX17hJZ-shzRMxTus0aMw0EVVB)
 	
-[Lucas Badico](https://www.youtube.com/@lucas_badico) ([[introducao-markdown]], [[community-plugins]], [[backup]], [[template-dailynote]])
+[Lucas Badico](https://www.youtube.com/@lucas_badico) ([[introducao-markdown]], [[community-plugins]], [[backup-backlog-obsidian]], [[template-dailynote]])
 		[Obsidian para devs: configurando daily notes, calendar, git backup excalidraw](https://www.youtube.com/watch?v=ofy5N6Ef8ks)
 		[Obidian para Devs: Como usar o Dataview, Tags e Bookmarks | feat aprenda como salvar seus gráficos](https://www.youtube.com/watch?v=yiKTFtA_dtI&list=PL-tb3yiDrcKrZ3dY9gwYIbBoovw3c6DpT&index=3)
 

@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "b/backlog-obsidian.md",
+                "file": "d/diagram-fluxogram.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "backlog-obsidian"
+              "title": "diagram-fluxogram"
             }
           }
         ]
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "b/backlog-obsidian.md",
+                "file": "d/diagram-fluxogram.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -238,32 +238,32 @@
   },
   "active": "23623d7149a15e4f",
   "lastOpenFiles": [
+    "d/desodorantes.md",
+    "d/datas-aniversarios.md",
+    "d/design-system.md",
+    "d/dataview.md",
+    "c/cores.md",
+    "d/dailynotemodel-template.md",
+    "d/d4 (deprecated).md",
+    "c/community-plugins.md",
+    "c/cemig.md",
+    "b/bookmarks.md",
+    "p/protocol-aantiparalisia.md",
+    "c/carga-t.md",
+    "b/bd3.md",
+    "b/bolo-aniversario.md",
+    "b/badges.md",
+    "b/backup-backlog-obsidian.md",
+    "b/backlog-obsidian.md",
     "a/agenda26.md",
     "a/Untitled.md",
     "a/teste2.md",
     "a/tsete3.md",
     "r/roadmap-java-iniciante.md",
     "r/roadmap-java.md",
-    "p/protocol-aantiparalisia.md",
     "a/anotacao-sobre.md",
     "a/admin-provadevida.md",
     "a/admin-nu.md",
-    "a/admin-net.md",
-    "a/admin-condominio.md",
-    "a/admin-bdb.md",
-    "a/admin-balanço.md",
-    "a/admin-ape.md",
-    "n/notas-prismaticas.md",
-    "a/agenda25.md",
-    "d/datas-aniversarios.md",
-    "d/discord-profile.md",
-    "d/discord-helpers.md",
-    "d/discord.md",
-    "d/dina.md",
-    "d/diario-aleatorio.md",
-    "s/saude-sae.md",
-    "s/saude-dina-receitas.md",
-    "s/social-viagem.md",
     "resources/github-markdown-img.png",
     "github-markdown-alerts.png",
     "Pasted image 20250327083157.png",

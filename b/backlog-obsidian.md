@@ -14,8 +14,12 @@ Contém as alterações do repositório (todo).
 
 10/08/25 Dailynote deve conter conteúdo de acordo, um link para a agenda e uma seção de backlog.
 
-# Diário de desenvolvimento
+# Log
 
-20/10/25 As atividades de início em 10/08/25 não foram finalizadas no tempo hábil de espera. Até a data atual ainda não ha previsão de termino. Há problemas com o processamento de certas notas que requerem tratamento específico.
-# Notas de atualização
+201025 As atividades de início em 10/08/25 não foram finalizadas no tempo hábil de espera. Até a data atual ainda não ha previsão de termino. Há problemas com o processamento de certas notas que requerem tratamento específico.
+
+250826 Série de alterações em todas as notas a fim de diminuir a quantidade de material sem relevancia. Grande número de deleções.
+
+> [!INFO] Notas de atualização
+> 250826 (NOVO) A seção de `Diário de desenvolvimento` sofreu alteração para `Log`
 

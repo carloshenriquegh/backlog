@@ -40,7 +40,7 @@
 
 #github
 	#github/doc [[github-doc]]
-	#github/repo [[backup]] [[github-carloshenriquecrx]]
+	#github/repo [[backup-backlog-obsidian]] [[github-carloshenriquecrx]]
 
 #html
 	#html/doc [[html-doc]]
@@ -75,9 +75,9 @@
 #obsidian 
 	#obsidian/doc [[obsidian-doc]]
 	#obsidian/guide [[introducao-markdown]] [[obsidian-tutos]]
-	#obsidian/vault [[backup]] 
+	#obsidian/vault [[backup-backlog-obsidian]] 
 	#obsidian/plugins [[introducao-markdown]] [[obsidian-tutos]] [3 Amazing Obsidian Plugins Dataview, Outliner and Templater](https://www.youtube.com/watch?v=2234DXKbNgM&t=1973s)
-		#obsidian/plugins/git[[backup]]
+		#obsidian/plugins/git[[backup-backlog-obsidian]]
 
 #php SEPARAR O CONTEUDO DO [[laravel-guia]]
 	#php/doc
