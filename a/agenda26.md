@@ -1,4 +1,3 @@
-
 | diário                                             | semanal                                          | mensal                                     |
 | -------------------------------------------------- | ------------------------------------------------ | ------------------------------------------ |
 | [saude-dina-medicacao](/s/saude-dina-medicacao.md) | [admin-balanço](/a/admin-balanço.md)             | [backlog-obsidian](/b/backlog-obsidian.md) |
