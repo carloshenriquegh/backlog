@@ -8,6 +8,8 @@ fixos semanais
 
 fixos mensais
 [backlog-obsidian](/b/backlog-obsidian.md)
+iptu
+inss
 
 Agosto
 Agosto Semana 1

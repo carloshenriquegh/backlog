@@ -559,7 +559,3 @@ To avoid the problem you need to install version 1.93.
 20250404-6 Opção para alternar o idioma para inglês (o *gist* não deve ser *pinned*, verificar viabilidade de exposição/acessibilidade via linking de ícone de bandeira clicável).
 
 20250407-7 Verificar forma de renderizar as imagens no arquivo de origem (obsidian vault) e no arquivo de destino (github repo) afim de exibir o conteúdo nas duas páginas como o mesmo caminho relativo da imagem. Verificar se é possível carregar do repo privado. De acordo com [Embed image from GitHub private repo](https://stackoverflow.com/questions/63915756/embed-image-from-github-private-repo) seria por meio de token com `raw.githubusercontent` no início do endereço e final adicionar o número do token `token=xxxxxxxx`. Exibir o token não é uma opção. Também não faço ideia de como suprimir. Me agrada o fato de procurar outra solução.
-
-# Diário de desenvolvimento
-
-# Notas de atualização
