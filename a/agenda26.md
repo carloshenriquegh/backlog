@@ -4,7 +4,7 @@
 | [saude-dina-medicacao](/s/saude-dina-medicacao.md) | [admin-balanço](/a/admin-balanço.md)             | [backlog-obsidian](/b/backlog-obsidian.md) |
 | [saude-prep](/s/saude-prep.md)                     | [saude-dina-receitas](/s/saude-dina-receitas.md) | [inss](/i/inss.md)                         |
 |                                                    |                                                  | [iptu](/i/iptu.md) (6 parcelas)            |
-|                                                    |                                                  |                                            |
+
 # Agosto
 ## Agosto Semana 1
 
