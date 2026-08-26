@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-05-13 DiabloIV.md",
+                "file": "dailynote/2026-06-18 Farever.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-13 DiabloIV"
+              "title": "2026-06-18 Farever"
             }
           }
         ],
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-05-13 DiabloIV.md",
+                "file": "dailynote/2026-06-18 Farever.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -231,6 +231,8 @@
   },
   "active": "aea4228507951a0a",
   "lastOpenFiles": [
+    "dailynote/2026-05-13 DiabloIV.md",
+    "dailynote/2026-05-13º.md",
     "p/protocol-aantiparalisia.md",
     "dailynote/2026-05-11º.md",
     "dailynote/2026-05-12º.md",
@@ -255,8 +257,6 @@
     "d/d4 (deprecated).md",
     "c/community-plugins.md",
     "c/cemig.md",
-    "b/bookmarks.md",
-    "c/carga-t.md",
     "resources/github-markdown-img.png",
     "github-markdown-alerts.png",
     "Pasted image 20250327083157.png",
