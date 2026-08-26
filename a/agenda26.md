@@ -6,6 +6,9 @@ fixos semanais
 [admin-balanço](/a/admin-balanço.md)
 [saude-dina-receitas](/s/saude-dina-receitas.md)
 
+fixos mensais
+[backlog-obsidian](/b/backlog-obsidian.md)
+
 Agosto
 Agosto Semana 1
 2 DOM 
@@ -106,6 +109,7 @@ Outubro Semana 1
 4 DOM
 5 SEG
 6 TER
+- [datas-aniversarios](/d/datas-aniversarios.md)
 7 QUA 
 - [admin-mercantil](admin-mercantil.md)
 8 QUI
@@ -132,6 +136,7 @@ Outubro Semana 3
 21 QUA
 22 QUI
 23 SEX
+- [datas-aniversarios](/d/datas-aniversarios.md)
 24 SAB
 25 DOM
 

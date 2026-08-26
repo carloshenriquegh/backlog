@@ -40,5 +40,5 @@ backlog-obsidian para organização semanal das notas.
 
 - [x] renomear notas;
 - [x] transferência e alocação das datas principais;
-- [ ] alocação de eventos secundários (adicionar social-aniversarios);
-- [ ] deleção da agenda 25;
+- [x] alocação de eventos secundários (adicionar social-aniversarios);
+- [x] deleção da agenda 25;
