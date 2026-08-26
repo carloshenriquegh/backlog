@@ -3,16 +3,23 @@ fixos diários com despertador
 21h30 [saude-prep](/s/saude-prep.md)
 
 fixos semanais
-[admin-balanço](/a/admin-balanço.md)
+
 [saude-dina-receitas](/s/saude-dina-receitas.md)
 
 fixos mensais
 [backlog-obsidian](/b/backlog-obsidian.md)
-iptu
-inss
+[iptu](/i/iptu.md) (6 parcelas)
+[inss](/i/inss.md)
 
-Agosto
-Agosto Semana 1
+
+| diário                                             | semanal                              | mensal |
+| -------------------------------------------------- | ------------------------------------ | ------ |
+| [saude-dina-medicacao](/s/saude-dina-medicacao.md) | [admin-balanço](/a/admin-balanço.md) |        |
+| [saude-prep](/s/saude-prep.md)                     |                                      |        |
+
+# Agosto
+## Agosto Semana 1
+
 2 DOM 
 3 SEG
 4 TER
@@ -21,7 +28,8 @@ Agosto Semana 1
 7 SEX
 8 SAB
 
-Agosto Semana 2
+## Agosto Semana 2
+
 9 DOM
 10 SEG
 11 TER
@@ -30,7 +38,8 @@ Agosto Semana 2
 14 SEX
 15 SAB
 
-Agosto Semana 3
+## Agosto Semana 3
+
 16 DOM
 17 SEG
 18 TER
@@ -40,20 +49,22 @@ Agosto Semana 3
 21 SEX
 22 SAB
 
-Agosto Semana 4
+## Agosto Semana 4
+
 23 DOM
 24 SEG
-==25 TER==
-26 QUA
+25 TER
+==26 QUA==
 27 QUI
 28 SEX
 - buscar exame urina ([saude-dina-itu](/s/saude-dina-itu.md))
 - [admin-bdb](/a/admin-bdb.md)
 29 SAB
 ___
-Setembro
+# Setembro
 
-Setembro Semana 1
+## Setembro Semana 1
+
 AGO 30 DOM 
 AGO 31 SEG
 1 TER
@@ -64,7 +75,8 @@ AGO 31 SEG
 - 8h00 [saude-sae](/s/saude-sae.md)
 5 SAB
 
-Setembro Semana 2
+##  Setembro Semana 2
+
 6 DOM
 7 SEG 
 - [admin-mercantil](/a/admin-mercantil.md)
@@ -74,19 +86,23 @@ Setembro Semana 2
 10 QUI
 11 SEX
 - [admin-net](/a/admin-net.md)
+- [iptu](/i/iptu.md)
 12 SAB
 
-Setembro Semana 3
+##  Setembro Semana 3
+
 13 DOM
 14 SEG
 15 TER
+- [inss](/i/inss.md)
 16 QUA
 17 QUI
 18 SEX
 19 SAB
 - [admin-ape](/a/admin-ape.md)
 
-Setembro Semana 4
+##  Setembro Semana 4
+
 20 DOM
 21 SEG
 22 TER
@@ -95,7 +111,8 @@ Setembro Semana 4
 25 SEX
 26 SAB
 
-Setembro Semana 5
+##  Setembro Semana 5
+
 27 DOM
 28 SEG
 - [admin-bdb](/a/admin-bdb.md)
@@ -105,9 +122,9 @@ OUT 1 QUI
 OUT 2 SEX
 OUT 3 SAB
 ___
-Outubro
+# Outubro
 
-Outubro Semana 1
+##  Outubro Semana 1
 4 DOM
 5 SEG
 6 TER
@@ -119,7 +136,7 @@ Outubro Semana 1
 9 SEX
 10 SAB
 
-Outubro Semana 2
+## Outubro Semana 2
 11 DOM
 12 SEG
 - [admin-net](/a/admin-net.md)
@@ -127,10 +144,11 @@ Outubro Semana 2
 14 QUA
 - [admin-provadevida](admin-provadevida.md)
 15 QUI
+- [inss](/i/inss.md)
 16 SEX
 17 SAB
 
-Outubro Semana 3
+## Outubro Semana 3
 18 DOM
 19 SEG
 - [admin-ape](/a/admin-ape.md)
@@ -142,7 +160,7 @@ Outubro Semana 3
 24 SAB
 25 DOM
 
-Outubro Semana 4
+## Outubro Semana 4
 25 DOM
 26 SEG
 27 TER
@@ -152,9 +170,10 @@ Outubro Semana 4
 30 SEX
 31 SAB
 
-Novembro
+# Novembro
 
-Novembro Semana 1
+## Novembro Semana 1
+
 1 DOM
 2 SEG
 3 TER
@@ -163,7 +182,8 @@ Novembro Semana 1
 6 SEX
 7 SAB
 
-Novembro Semana 2
+## Novembro Semana 2
+
 8 DOM
 9 SEG
 - [admin-mercantil](admin-mercantil.md)
@@ -173,9 +193,11 @@ Novembro Semana 2
 - [admin-net](/a/admin-net.md)
 12 QUI
 13 SEX
+- [inss](/i/inss.md)
 14 SAB
 
-Novembro Semana 3
+## Novembro Semana 3
+
 15 DOM
 16 SEG
 17 TER
@@ -185,7 +207,8 @@ Novembro Semana 3
 20 SEX
 21 SAB
 
-Novembro Semana 4
+## Novembro Semana 4
+
 22 DOM
 23 SEG
 24 TER
@@ -194,8 +217,9 @@ Novembro Semana 4
 27 SEX
 28 SAB
 ___
-Dezembro
-Dezembro Semana 1
+# Dezembro
+## Dezembro Semana 1
+
 NOV 29 DOM
 NOV 30 SEG
 - [admin-bdb](/a/admin-bdb.md)
@@ -205,7 +229,8 @@ NOV 30 SEG
 4 SEX
 5 SAB
 
-Dezembro Semana 2
+## Dezembro Semana 2
+
 6 DOM
 7 SEG
 - [admin-mercantil](admin-mercantil.md)
@@ -217,17 +242,20 @@ Dezembro Semana 2
 - [admin-net](/a/admin-net.md)
 12 SAB
 
-Dezembro Semana 3
+## Dezembro Semana 3
+
 13 DOM
 14 SEG
 15 TER
+- [inss](/i/inss.md)
 16 QUA
 17 QUI
 18 SEX
 19 SAB
 - [admin-ape](/a/admin-ape.md)
 
-Dezembro Semana 4
+## Dezembro Semana 4
+
 20 DOM
 21 SEG
 22 TER
@@ -236,7 +264,8 @@ Dezembro Semana 4
 25 SEX
 26 SAB
 
-Dezembro Semana 5
+## Dezembro Semana 5
+
 27 DOM
 28 SEG
 - [admin-bdb](/a/admin-bdb.md)
