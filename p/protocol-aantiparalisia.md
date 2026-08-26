@@ -1,7 +1,7 @@
 
 # legenda 
 
-(?) é uma pergunta. Deve ser a ignição.
+(?) é uma pergunta. Deve ser a ignição suficiente para a ação (empenho) do trabalho intelectual.
 (-) qual a resistência?
 (+) qual o seu propósito em direção a responder a pergunta?
 (!) a resposta que encontrou com base no seu propósito.
