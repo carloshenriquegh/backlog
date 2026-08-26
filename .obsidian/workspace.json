@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "n/nucleo-laboratorio.md",
+                "file": "p/prep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nucleo-laboratorio"
+              "title": "prep"
             }
           }
         ],
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "n/nucleo-laboratorio.md",
+                "file": "p/prep.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -231,6 +231,23 @@
   },
   "active": "c6ab0f3224b3cac3",
   "lastOpenFiles": [
+    "p/pratica-deliberada.md",
+    "p/portfolio.md",
+    "p/pkm.md",
+    "p/pointts-congelamento.md",
+    "p/poe2 (deprecated).md",
+    "p/poe2.md",
+    "p/php4noobs-danielhe4rt.md",
+    "p/pandoc.md",
+    "p/perguntas-redux.md",
+    "p/perguntas-extendidas.md",
+    "p/pcr.md",
+    "o/obsidian-tutos.md",
+    "p/pagamentos.md",
+    "o/organizar-obsidian.md",
+    "o/obsidian-doc.md",
+    "o/obsidian-callouts-ntwic.md",
+    "n/nucleo-laboratorio.md",
     "n/notas-prismaticas.md",
     "n/nextjsRoadmap.jpg",
     "n/neurovox-procastinacao.md",
@@ -241,23 +258,6 @@
     "m/markdown-doc.md",
     "m/momentjs.md",
     "m/mega-meus-links.md",
-    "m/admin-mercantil.md",
-    "l/losslesscut.md",
-    "l/liveserver-vscode.md",
-    "l/linkedin-profile.md",
-    "o/obsidian-callouts-ntwic.md",
-    "m/mapeamento-emocoes.md",
-    "l/log-x3gskin.md",
-    "l/log-x3xp.md",
-    "l/log-x3mtb.md",
-    "s/js-obsidian.md",
-    "s/saude-dina-exames.md",
-    "s/saude-dina-receitas.md",
-    "s/social-viagem.md",
-    "s/statusbar-obsidian.md",
-    "s/saude-sae.md",
-    "dailynote/2025-10-xx Decaimento.md",
-    "l/log-overburdened.md",
     "resources/github-markdown-img.png",
     "github-markdown-alerts.png",
     "Pasted image 20250327083157.png",
