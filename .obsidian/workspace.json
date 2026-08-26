@@ -43,16 +43,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "m/momentjs.md",
+                "file": "i/iptu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "momentjs"
+              "title": "iptu"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "d2da2e5fec5a772c",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "m/momentjs.md",
+                "file": "p/protocol-aantiparalisia.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -261,10 +260,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ce34519798765b4d",
+  "active": "4b405c9d1683b28d",
   "lastOpenFiles": [
-    "j/js-obsidian.md",
+    "i/iptu.md",
     "m/momentjs.md",
+    "j/js-obsidian.md",
     "javascript/javascript-momentjs.md",
     "dailynote/2026-08-26º.md",
     "templates/template-dailynote.md",
@@ -299,7 +299,6 @@
     "u/uo.md",
     "templates/template-protocol.md",
     "t/templater-date-momentjs.md",
-    "s/syncthing.md",
     "pdf/c-completo-total.pdf",
     "news.blizzard.com/en-us/article/24267729",
     "news.blizzard.com/en-us/article",
