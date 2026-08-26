@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-06-18 Farever.md",
+                "file": "f/frases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-18 Farever"
+              "title": "frases"
             }
           }
         ],
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-06-18 Farever.md",
+                "file": "f/frases.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -231,6 +231,15 @@
   },
   "active": "aea4228507951a0a",
   "lastOpenFiles": [
+    "f/farever.md",
+    "e/excalidraw-doc.md",
+    "e/exp33.md",
+    "e/english-quotes.md",
+    "d/discord-profile.md",
+    "d/discord-helpers.md",
+    "s/saude-dina-exames.md",
+    "dailynote/2026-06-18 Farever.md",
+    "dailynote/2026-06-19ºDescolar.md",
     "dailynote/2026-05-13 DiabloIV.md",
     "dailynote/2026-05-13º.md",
     "p/protocol-aantiparalisia.md",
@@ -240,8 +249,6 @@
     "dailynote/2026-03-13º.md",
     "dailynote/2026-03-12 Procrastinar II.md",
     "dailynote/2026-03-12 Procrastinar.md",
-    "d/discord-profile.md",
-    "d/discord-helpers.md",
     "d/discord-alerts-callouts.md",
     "s/saude-dina-medicacao.md",
     "d/dina.md",
@@ -250,13 +257,6 @@
     "d/diario-aleatorio.md",
     "d/desodorantes.md",
     "d/datas-aniversarios.md",
-    "d/design-system.md",
-    "d/dataview.md",
-    "c/cores.md",
-    "d/dailynotemodel-template.md",
-    "d/d4 (deprecated).md",
-    "c/community-plugins.md",
-    "c/cemig.md",
     "resources/github-markdown-img.png",
     "github-markdown-alerts.png",
     "Pasted image 20250327083157.png",
