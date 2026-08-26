@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mermaid/mermaid.md",
+                "file": "n/neurovox-dependencia-emocional.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mermaid"
+              "title": "neurovox-dependencia-emocional"
             }
           }
         ],
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mermaid/mermaid.md",
+                "file": "n/neurovox-dependencia-emocional.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -231,6 +231,8 @@
   },
   "active": "c6ab0f3224b3cac3",
   "lastOpenFiles": [
+    "mermaid/mermaid-class-diagram.md",
+    "mermaid/mermaid.md",
     "m/markdown-doc.md",
     "m/momentjs.md",
     "m/mega-meus-links.md",
@@ -243,8 +245,6 @@
     "l/log-x3gskin.md",
     "l/log-x3xp.md",
     "l/log-x3mtb.md",
-    "mermaid/mermaid-class-diagram.md",
-    "mermaid/mermaid.md",
     "s/js-obsidian.md",
     "s/saude-dina-exames.md",
     "s/saude-dina-receitas.md",
