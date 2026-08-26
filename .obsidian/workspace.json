@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "t/tfi.md",
+                "file": "p/protocol-aantiparalisia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tfi"
+              "title": "protocol-aantiparalisia"
             }
           }
         ]
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/template-dailynote.md",
+                "file": "p/protocol-aantiparalisia.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -261,13 +261,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b0dd52c9b1b78a27",
+  "active": "6fa864633818198e",
   "lastOpenFiles": [
+    "dailynote/2026-08-26º.md",
+    "d/datas-aniversarios.md",
+    "c/cores.md",
+    "c/community-plugins.md",
+    "c/cemig.md",
+    "templates/template-dailynote.md",
     "t/tfi.md",
     "s/saude-prep.md",
     "a/agenda26.md",
-    "templates/template-dailynote.md",
-    "dailynote/2026-08-26º.md",
     "dailynote/2026-03-12 Procrastinar.md",
     "p/protocol-aantiparalisia.md",
     "p/protocol-agenda26.md",
@@ -297,10 +301,6 @@
     "comprovante-exameNucleo120825.jpg",
     "github-markdown-img.png",
     "img",
-    "README.md",
-    "y/yt-dlp.md",
-    "w/windefender.md",
-    "w/wtb.md",
     "pdf/c-completo-total.pdf",
     "news.blizzard.com/en-us/article/24267729",
     "news.blizzard.com/en-us/article",
