@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a/agenda26.md",
+                "file": "templates/template-dailynote.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "agenda26"
+              "title": "template-dailynote"
             }
           }
         ],
@@ -61,15 +61,17 @@
           {
             "id": "4cce7028ef61d1e2",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-08-25º.md",
+                "file": "j/js-obsidian.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-08-25º"
+              "title": "js-obsidian"
             }
           }
         ]
@@ -138,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-08-25º.md",
+                "file": "j/js-obsidian.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -259,19 +261,20 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "4cce7028ef61d1e2",
   "lastOpenFiles": [
-    "dailynote/2026-08-26º.md",
     "templates/template-dailynote.md",
-    "j/js-obsidian.md",
-    "java/java-intro.md",
-    "dailynote/2026-08-25º.md",
-    "p/protocol-aantiparalisia.md",
     "a/agenda26.md",
+    "j/js-obsidian.md",
+    "templates/template-content.md",
+    "templates/template-common.md",
+    "dailynote/2026-08-26º.md",
+    "dailynote/2026-08-25º.md",
+    "java/java-intro.md",
+    "p/protocol-aantiparalisia.md",
     "p/pkm.md",
     "resources-offlink/thinking-piramid.jpg",
     "resources-offlink/roadmapDOTsh.jpg",
@@ -296,8 +299,6 @@
     "v/versao-emocional.md",
     "u/uo.md",
     "templates/template-protocol.md",
-    "templates/template-content.md",
-    "templates/template-common.md",
     "t/templater-date-momentjs.md",
     "s/syncthing.md",
     "t/tags.md",
