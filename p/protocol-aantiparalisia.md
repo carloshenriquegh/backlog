@@ -47,3 +47,5 @@ Sigo com a revisão e deleção de varias notas.
 Sinto que apaguei tudo o que poderia ter apagado e a necessidade de incluir um log de atualização em cada nota é um exagero sem fim porque o que vale afinal é a informação que contém a nota, que na maioria das vezes, é um pequeno trecho de texto.
 
 É como se tivesse tirado um peso das minhas costas e sinto um certo alívio. Como se agora eu pudesse começar o que eu preciso. Há pequenas notas para serem criadas e o ajuste da nota diaria.
+
+# 20260826 
