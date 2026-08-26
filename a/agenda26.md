@@ -1,6 +1,10 @@
-fixos com despertador
-19h45 saude-dina-medicacao
-21h30 saude-prep
+fixos diários com despertador
+19h45 [saude-dina-medicacao](/s/saude-dina-medicacao.md)
+21h30 [saude-prep](/s/saude-prep.md)
+
+fixos semanais
+[admin-balanço](/a/admin-balanço.md)
+[saude-dina-receitas](/s/saude-dina-receitas.md)
 
 Agosto
 Agosto Semana 1
