@@ -25,18 +25,19 @@
 18 TER
 19 QUA
 20 QUI 
-- exame de urina e entregar no laboratorio ([saude-dina-itu](/s/saude-dina-itu.md)); 
+- exame de urina e entregar no laboratorio ([saude-dina-itu](/s/saude-dina-itu.md))
 21 SEX
 22 SAB
 ## Agosto Semana 4
 
 23 DOM
 24 SEG
-25 TER
+==25== TER
 26 QUA
 27 QUI
 28 SEX
-- buscar exame urina ([saude-dina-itu](/s/saude-dina-itu.md));
+- buscar exame urina ([saude-dina-itu](/s/saude-dina-itu.md))
+- [admin-bdb](/a/admin-bdb.md)
 29 SAB
 # Setembro
 
@@ -86,6 +87,7 @@ AGO 31 SEG
 
 27 DOM
 28 SEG
+- [admin-bdb](/a/admin-bdb.md)
 29 TER
 30 QUA
 OUT 1 QUI
@@ -133,6 +135,7 @@ OUT 3 SAB
 26 SEG
 27 TER
 28 QUA
+- [admin-bdb](/a/admin-bdb.md)
 29 QUI
 30 SEX
 31 SAB
@@ -155,8 +158,8 @@ OUT 3 SAB
 - [admin-condominio](/a/admin-condominio.md)
 10 TER
 11 QUA
-12 QUI
 - [admin-net](/a/admin-net.md)
+12 QUI
 13 SEX
 14 SAB
 ## Novembro Semana 3
@@ -183,6 +186,7 @@ OUT 3 SAB
 
 NOV 29 DOM
 NOV 30 SEG
+- [admin-bdb](/a/admin-bdb.md)
 1 TER 
 2 QUA
 3 QUI

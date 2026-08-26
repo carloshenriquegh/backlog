@@ -6,7 +6,7 @@
       {
         "id": "ae58cc24047aa5cf",
         "type": "tabs",
-        "dimension": 51.625,
+        "dimension": 53.87499999999999,
         "children": [
           {
             "id": "dc95ba3196634f31",
@@ -83,7 +83,7 @@
       {
         "id": "2ca9fa22772b1994",
         "type": "tabs",
-        "dimension": 48.375,
+        "dimension": 46.125,
         "children": [
           {
             "id": "4a0be98f27412263",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a/agenda26.md",
+                "file": "p/protocol-aantiparalisia.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -315,22 +315,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dc95ba3196634f31",
+  "active": "4b405c9d1683b28d",
   "lastOpenFiles": [
+    "a/agenda26.md",
+    "a/admin-bdb.md",
     "a/admin-net.md",
     "a/agenda25.md",
     "p/protocol-aantiparalisia.md",
-    "a/agenda26.md",
     "s/saude-dina-itu.md",
     "a/anotacao-sobre.md",
     "templates/template-dailynote.md",
     "dailynote/2026-08-25º.md",
-    "c/admin-ape.md",
-    "c/admin-nu.md",
+    "a/admin-ape.md",
+    "a/admin-nu.md",
     "p/admin-provadevida.md",
     "m/admin-mercantil.md",
-    "c/admin-condominio.md",
-    "a/admin-bdb.md",
+    "a/admin-condominio.md",
     "a/abnt.md",
     "p/protocol-agenda26.md",
     "p/protocol-template.md",
