@@ -52,3 +52,9 @@ Sinto que apaguei tudo o que poderia ter apagado e a necessidade de incluir um l
 
 20260826 1831 ? eu consigo terminar ainda hoje de atualizar o modelo da nota diária de acordo com a anotação em papel? Eu já sei das seções principais com base no metodo de lembrete com base no vídeo do Galego *[Como eu parei de procastinar](https://www.youtube.com/watch?v=bDdmfrLgLaw)*.
 
+20260826 1835 - Se eu vou precisar de tal metodo até o fim da vida então não posso adiar mais ainda dentro da infinidade que já adiei. Encontro pouca ou nenhuma resistência neste momento.
+
+20260826 1836 + Me sinto capaz e sem resistêncas para rever tudo o que eu escrevi, reservar as seções que vou precisar no papel (7 linhas com uma divisória para lembretes no final da folha?). Preciso de um template simples com compartimentos que não causem sobrecarga com a leitura. E se meu ímpeto mercurial em direção a produtividade conseguir aproveitar o todo ou grande parte de tamanha iniciativa estarei em um novo nível em direção ao meu objetivo.
+
+20260826 1839 !
+
