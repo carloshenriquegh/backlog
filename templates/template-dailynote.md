@@ -2,7 +2,7 @@
 
 > [!INFO] Revisão
 > Revisão e atualização em (inserir data) às (inserir horário).
-# 20 Tarefas e subtarefas (*20th Tasks and subtasks*)
+# Tarefas e subtarefas (*20th Tasks and subtasks*)
 
 1. a
 2. b
