@@ -1,8 +1,6 @@
 # <% moment().locale('pt-br').format('LLL') %>
 
-> [!INFO] Revisão
-> Revisão e atualização em (inserir data) às (inserir horário).
-# Tarefas e subtarefas (*20th Tasks and subtasks*)
+# Tarefas e subtarefas (20)
 
 1. a
 2. b
