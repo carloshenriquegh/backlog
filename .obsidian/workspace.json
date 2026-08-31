@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mermaid/mermaid-etc.md",
+                "file": "mermaid/mermaid-teste1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mermaid-etc"
+              "title": "mermaid-teste1"
             }
           }
         ]
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mermaid/mermaid-etc.md",
+                "file": "mermaid/mermaid-teste1.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -213,8 +213,9 @@
   },
   "active": "6fa864633818198e",
   "lastOpenFiles": [
-    "mermaid/mermaid.md",
     "mermaid/mermaid-etc.md",
+    "mermaid/mermaid-teste1.md",
+    "mermaid/mermaid.md",
     "a/agenda26.md",
     "a/admin-balanço.md",
     "java/java-intro-fernandakipper.md",
@@ -238,7 +239,6 @@
     "p/protocol-aantiparalisia.md",
     "d/datas-aniversarios.md",
     "c/cores.md",
-    "c/community-plugins.md",
     "img",
     "resources-offlink/thinking-piramid.jpg",
     "resources-offlink/roadmapDOTsh.jpg",
