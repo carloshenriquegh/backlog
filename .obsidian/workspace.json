@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/template-dailynote.md",
+                "file": "dailynote/2026-08-31º.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "template-dailynote"
+              "title": "2026-08-31º"
             }
           }
         ]
@@ -213,6 +213,7 @@
   "active": "6fa864633818198e",
   "lastOpenFiles": [
     "dailynote/2026-08-31º.md",
+    "a/agenda.md",
     "templates/template-dailynote.md",
     "a/agenda26.md",
     "dailynote/2026-08-30º.md",
@@ -238,7 +239,6 @@
     "img",
     "i/iptu.md",
     "m/momentjs.md",
-    "j/js-obsidian.md",
     "resources-offlink/thinking-piramid.jpg",
     "resources-offlink/roadmapDOTsh.jpg",
     "resources-offlink/pkm-tree-example.png",

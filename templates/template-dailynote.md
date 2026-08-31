@@ -1,6 +1,6 @@
 # <% moment().locale('pt-br').format('LLL') %>
 
-[agenda26](/a/agenda.md)
+[agenda26](/a/agenda26.md)
 # 20 Tarefas
 
 1. a
