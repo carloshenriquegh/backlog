@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mermaid/mermaid-teste1.md",
+                "file": "e/excalidraw-doc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mermaid-teste1"
+              "title": "excalidraw-doc"
+            }
+          },
+          {
+            "id": "b44ae18ba9843d43",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "e/excalidraw-20260831-2058.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "excalidraw-20260831-2058.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mermaid/mermaid-teste1.md",
+                "file": "e/excalidraw-20260831-2058.excalidraw.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -211,10 +224,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6fa864633818198e",
+  "active": "b44ae18ba9843d43",
   "lastOpenFiles": [
-    "mermaid/mermaid-etc.md",
+    "e/excalidraw-doc.md",
+    "e/excalidraw-20260831-2058.excalidraw.md",
+    "e/Sem título.canvas",
     "mermaid/mermaid-teste1.md",
+    "mermaid/mermaid-etc.md",
     "mermaid/mermaid.md",
     "a/agenda26.md",
     "a/admin-balanço.md",
@@ -237,8 +253,6 @@
     "n/nucleo-laboratorio-dina.md",
     "dailynote/2026-08-26º.md",
     "p/protocol-aantiparalisia.md",
-    "d/datas-aniversarios.md",
-    "c/cores.md",
     "img",
     "resources-offlink/thinking-piramid.jpg",
     "resources-offlink/roadmapDOTsh.jpg",
