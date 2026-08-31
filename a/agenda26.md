@@ -21,7 +21,7 @@ dv.header(1, "Data de hoje: " + now.toLocaleString());
 8 SAB
 - [admin-balanço](/a/admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
-- [limpeza-geral](/l/limpeza-geral.md)
+- [quarto](/l/quarto.md)
 
 ## Agosto Semana 2
 
@@ -34,7 +34,7 @@ dv.header(1, "Data de hoje: " + now.toLocaleString());
 15 SAB
 - [admin-balanço](/a/admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
-- [limpeza-geral](/l/limpeza-geral.md)
+- [quarto](/l/quarto.md)
 
 ## Agosto Semana 3
 
@@ -60,7 +60,7 @@ dv.header(1, "Data de hoje: " + now.toLocaleString());
 29 SAB
 - [admin-balanço](/a/admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
-- [limpeza-geral](/l/limpeza-geral.md)
+- [quarto](/l/quarto.md)
 ___
 # Setembro
 
@@ -77,7 +77,7 @@ AGO 30 DOM
 5 SAB
 - [admin-balanço](/a/admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
-- [limpeza-geral](/l/limpeza-geral.md)
+- [quarto](/l/quarto.md)
 
 ##  Setembro Semana 2
 
@@ -94,7 +94,7 @@ AGO 30 DOM
 12 SAB
 - [admin-balanço](/a/admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
-- [limpeza-geral](/l/limpeza-geral.md)
+- [quarto](/l/quarto.md)
 
 ##  Setembro Semana 3
 
@@ -109,7 +109,7 @@ AGO 30 DOM
 - [admin-ape](/a/admin-ape.md)
 - - [admin-balanço](/a/admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
-- [limpeza-geral](/l/limpeza-geral.md)
+- [quarto](/l/quarto.md)
 
 ##  Setembro Semana 4
 
@@ -122,7 +122,7 @@ AGO 30 DOM
 26 SAB
 - [admin-balanço](/a/admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
-- [limpeza-geral](/l/limpeza-geral.md)
+- [quarto](/l/quarto.md)
 
 ##  Setembro Semana 5
 
@@ -136,7 +136,7 @@ OUT 2 SEX
 OUT 3 SAB
 - [admin-balanço](/a/admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
-- [limpeza-geral](/l/limpeza-geral.md)
+- [quarto](/l/quarto.md)
 ___
 # Outubro
 
@@ -153,7 +153,7 @@ ___
 10 SAB
 - [admin-balanço](/a/admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
-- [limpeza-geral](/l/limpeza-geral.md)
+- [quarto](/l/quarto.md)
 
 ## Outubro Semana 2
 11 DOM
@@ -168,7 +168,7 @@ ___
 17 SAB
 - [admin-balanço](/a/admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
-- [limpeza-geral](/l/limpeza-geral.md)
+- [quarto](/l/quarto.md)
 
 ## Outubro Semana 3
 18 DOM
@@ -182,7 +182,7 @@ ___
 24 SAB
 - [admin-balanço](/a/admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
-- [limpeza-geral](/l/limpeza-geral.md)
+- [quarto](/l/quarto.md)
 25 DOM
 
 ## Outubro Semana 4
@@ -196,7 +196,7 @@ ___
 31 SAB
 - [admin-balanço](/a/admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
-- [limpeza-geral](/l/limpeza-geral.md)
+- [quarto](/l/quarto.md)
 
 # Novembro
 
@@ -211,7 +211,7 @@ ___
 7 SAB
 - [admin-balanço](/a/admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
-- [limpeza-geral](/l/limpeza-geral.md)
+- [quarto](/l/quarto.md)
 
 ## Novembro Semana 2
 
@@ -228,7 +228,7 @@ ___
 14 SAB
 - [admin-balanço](/a/admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
-- [limpeza-geral](/l/limpeza-geral.md)
+- [quarto](/l/quarto.md)
 
 ## Novembro Semana 3
 
@@ -242,7 +242,7 @@ ___
 21 SAB
 - [admin-balanço](/a/admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
-- [limpeza-geral](/l/limpeza-geral.md)
+- [quarto](/l/quarto.md)
 
 ## Novembro Semana 4
 
@@ -255,7 +255,7 @@ ___
 28 SAB
 - [admin-balanço](/a/admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
-- [limpeza-geral](/l/limpeza-geral.md)
+- [quarto](/l/quarto.md)
 ___
 # Dezembro
 ## Dezembro Semana 1
@@ -270,7 +270,7 @@ NOV 30 SEG
 5 SAB
 - [admin-balanço](/a/admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
-- [limpeza-geral](/l/limpeza-geral.md)
+- [quarto](/l/quarto.md)
 
 ## Dezembro Semana 2
 
@@ -286,7 +286,7 @@ NOV 30 SEG
 12 SAB
 - [admin-balanço](/a/admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
-- [limpeza-geral](/l/limpeza-geral.md)
+- [quarto](/l/quarto.md)
 
 ## Dezembro Semana 3
 
@@ -301,7 +301,7 @@ NOV 30 SEG
 - [admin-ape](/a/admin-ape.md)
 - [admin-balanço](/a/admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
-- [limpeza-geral](/l/limpeza-geral.md)
+- [quarto](/l/quarto.md)
 
 ## Dezembro Semana 4
 
@@ -314,7 +314,7 @@ NOV 30 SEG
 26 SAB
 - [admin-balanço](/a/admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
-- [limpeza-geral](/l/limpeza-geral.md)
+- [quarto](/l/quarto.md)
 
 ## Dezembro Semana 5
 
