@@ -3,7 +3,7 @@
 | [saude-dina-medicacao](/s/saude-dina-medicacao.md) | [admin-balanço](/a/admin-balanço.md)             | [backlog-obsidian](/b/backlog-obsidian.md) |
 | [saude-prep](/s/saude-prep.md)                     | [saude-dina-receitas](/s/saude-dina-receitas.md) | [inss](/i/inss.md)                         |
 |                                                    | [tfi](/t/tfi.md)                                 | [iptu](/i/iptu.md) (6 parcelas)            |
-|                                                    | [quarto](/q/quarto.md)                           |                                            |
+|                                                    | [quarto](/q/quarto.md)                           | [saude-sae](/s/saude-sae.md)               |
 
 ```dataviewjs
 const now = new Date();
