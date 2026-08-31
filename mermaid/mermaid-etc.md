@@ -1,0 +1,1 @@
+https://www.reddit.com/r/vscode/comments/1k2wiu8/mermaid_lens_a_zoomable_mermaid_diagram_viewer/?tl=pt-br
