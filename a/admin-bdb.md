@@ -5,6 +5,7 @@
 - extrato saída;
 
 28 de Agosto;
+- Saque R$1640.00
 28 de Setembro;
 28 de Outubro;
 28 de Novembro;
