@@ -6,7 +6,7 @@
 
 ```dataviewjs
 const now = new Date();
-dv.header("Data de hoje: " + now.toLocaleString());
+dv.header(1, "Data de hoje: " + now.toLocaleString());
 ```
 # Agosto
 ## Agosto Semana 1
@@ -45,7 +45,7 @@ dv.header("Data de hoje: " + now.toLocaleString());
 23 DOM
 24 SEG
 25 TER
-==26 QUA==
+26 QUA
 27 QUI
 28 SEX
 - buscar exame urina ([saude-dina-itu](/s/saude-dina-itu.md))
@@ -57,7 +57,7 @@ ___
 ## Setembro Semana 1
 
 AGO 30 DOM 
-AGO 31 SEG
+==AGO 31 SEG==
 1 TER
 2 QUA
 3 QUI
