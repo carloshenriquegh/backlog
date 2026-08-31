@@ -3,6 +3,7 @@
 | [saude-dina-medicacao](/s/saude-dina-medicacao.md) | [admin-balanço](/a/admin-balanço.md)             | [backlog-obsidian](/b/backlog-obsidian.md) |
 | [saude-prep](/s/saude-prep.md)                     | [saude-dina-receitas](/s/saude-dina-receitas.md) | [inss](/i/inss.md)                         |
 |                                                    | [tfi](/t/tfi.md)                                 | [iptu](/i/iptu.md) (6 parcelas)            |
+|                                                    | [limpeza-geral](/l/limpeza-geral.md)             |                                            |
 
 ```dataviewjs
 const now = new Date();
@@ -18,6 +19,9 @@ dv.header(1, "Data de hoje: " + now.toLocaleString());
 6 QUI
 7 SEX
 8 SAB
+- [admin-balanço](/a/admin-balanço.md)
+- [backlog-obsidian](/b/backlog-obsidian.md)
+- [limpeza-geral](/l/limpeza-geral.md)
 
 ## Agosto Semana 2
 
@@ -28,6 +32,9 @@ dv.header(1, "Data de hoje: " + now.toLocaleString());
 13 QUI
 14 SEX
 15 SAB
+- [admin-balanço](/a/admin-balanço.md)
+- [backlog-obsidian](/b/backlog-obsidian.md)
+- [limpeza-geral](/l/limpeza-geral.md)
 
 ## Agosto Semana 3
 
@@ -51,6 +58,9 @@ dv.header(1, "Data de hoje: " + now.toLocaleString());
 - buscar exame urina ([saude-dina-itu](/s/saude-dina-itu.md))
 - [admin-bdb](/a/admin-bdb.md)
 29 SAB
+- [admin-balanço](/a/admin-balanço.md)
+- [backlog-obsidian](/b/backlog-obsidian.md)
+- [limpeza-geral](/l/limpeza-geral.md)
 ___
 # Setembro
 
@@ -65,6 +75,9 @@ AGO 30 DOM
 4 SEX
 - 8h00 [saude-sae](/s/saude-sae.md)
 5 SAB
+- [admin-balanço](/a/admin-balanço.md)
+- [backlog-obsidian](/b/backlog-obsidian.md)
+- [limpeza-geral](/l/limpeza-geral.md)
 
 ##  Setembro Semana 2
 
@@ -79,6 +92,9 @@ AGO 30 DOM
 - [admin-net](/a/admin-net.md)
 - [iptu](/i/iptu.md)
 12 SAB
+- [admin-balanço](/a/admin-balanço.md)
+- [backlog-obsidian](/b/backlog-obsidian.md)
+- [limpeza-geral](/l/limpeza-geral.md)
 
 ##  Setembro Semana 3
 
@@ -91,6 +107,9 @@ AGO 30 DOM
 18 SEX
 19 SAB
 - [admin-ape](/a/admin-ape.md)
+- - [admin-balanço](/a/admin-balanço.md)
+- [backlog-obsidian](/b/backlog-obsidian.md)
+- [limpeza-geral](/l/limpeza-geral.md)
 
 ##  Setembro Semana 4
 
@@ -101,6 +120,9 @@ AGO 30 DOM
 24 QUI
 25 SEX
 26 SAB
+- [admin-balanço](/a/admin-balanço.md)
+- [backlog-obsidian](/b/backlog-obsidian.md)
+- [limpeza-geral](/l/limpeza-geral.md)
 
 ##  Setembro Semana 5
 
@@ -112,6 +134,9 @@ AGO 30 DOM
 OUT 1 QUI
 OUT 2 SEX
 OUT 3 SAB
+- [admin-balanço](/a/admin-balanço.md)
+- [backlog-obsidian](/b/backlog-obsidian.md)
+- [limpeza-geral](/l/limpeza-geral.md)
 ___
 # Outubro
 
@@ -126,6 +151,9 @@ ___
 - [admin-condominio](/a/admin-condominio.md)
 9 SEX
 10 SAB
+- [admin-balanço](/a/admin-balanço.md)
+- [backlog-obsidian](/b/backlog-obsidian.md)
+- [limpeza-geral](/l/limpeza-geral.md)
 
 ## Outubro Semana 2
 11 DOM
@@ -138,6 +166,9 @@ ___
 - [inss](/i/inss.md)
 16 SEX
 17 SAB
+- [admin-balanço](/a/admin-balanço.md)
+- [backlog-obsidian](/b/backlog-obsidian.md)
+- [limpeza-geral](/l/limpeza-geral.md)
 
 ## Outubro Semana 3
 18 DOM
@@ -149,6 +180,9 @@ ___
 23 SEX
 - [datas-aniversarios](/d/datas-aniversarios.md)
 24 SAB
+- [admin-balanço](/a/admin-balanço.md)
+- [backlog-obsidian](/b/backlog-obsidian.md)
+- [limpeza-geral](/l/limpeza-geral.md)
 25 DOM
 
 ## Outubro Semana 4
@@ -160,6 +194,9 @@ ___
 29 QUI
 30 SEX
 31 SAB
+- [admin-balanço](/a/admin-balanço.md)
+- [backlog-obsidian](/b/backlog-obsidian.md)
+- [limpeza-geral](/l/limpeza-geral.md)
 
 # Novembro
 
@@ -172,6 +209,9 @@ ___
 5 QUI
 6 SEX
 7 SAB
+- [admin-balanço](/a/admin-balanço.md)
+- [backlog-obsidian](/b/backlog-obsidian.md)
+- [limpeza-geral](/l/limpeza-geral.md)
 
 ## Novembro Semana 2
 
@@ -186,6 +226,9 @@ ___
 13 SEX
 - [inss](/i/inss.md)
 14 SAB
+- [admin-balanço](/a/admin-balanço.md)
+- [backlog-obsidian](/b/backlog-obsidian.md)
+- [limpeza-geral](/l/limpeza-geral.md)
 
 ## Novembro Semana 3
 
@@ -197,6 +240,9 @@ ___
 - [admin-ape](/a/admin-ape.md)
 20 SEX
 21 SAB
+- [admin-balanço](/a/admin-balanço.md)
+- [backlog-obsidian](/b/backlog-obsidian.md)
+- [limpeza-geral](/l/limpeza-geral.md)
 
 ## Novembro Semana 4
 
@@ -207,6 +253,9 @@ ___
 26 QUI
 27 SEX
 28 SAB
+- [admin-balanço](/a/admin-balanço.md)
+- [backlog-obsidian](/b/backlog-obsidian.md)
+- [limpeza-geral](/l/limpeza-geral.md)
 ___
 # Dezembro
 ## Dezembro Semana 1
@@ -219,6 +268,9 @@ NOV 30 SEG
 3 QUI
 4 SEX
 5 SAB
+- [admin-balanço](/a/admin-balanço.md)
+- [backlog-obsidian](/b/backlog-obsidian.md)
+- [limpeza-geral](/l/limpeza-geral.md)
 
 ## Dezembro Semana 2
 
@@ -232,6 +284,9 @@ NOV 30 SEG
 11 SEX
 - [admin-net](/a/admin-net.md)
 12 SAB
+- [admin-balanço](/a/admin-balanço.md)
+- [backlog-obsidian](/b/backlog-obsidian.md)
+- [limpeza-geral](/l/limpeza-geral.md)
 
 ## Dezembro Semana 3
 
@@ -244,6 +299,9 @@ NOV 30 SEG
 18 SEX
 19 SAB
 - [admin-ape](/a/admin-ape.md)
+- [admin-balanço](/a/admin-balanço.md)
+- [backlog-obsidian](/b/backlog-obsidian.md)
+- [limpeza-geral](/l/limpeza-geral.md)
 
 ## Dezembro Semana 4
 
@@ -254,6 +312,9 @@ NOV 30 SEG
 24 QUI
 25 SEX
 26 SAB
+- [admin-balanço](/a/admin-balanço.md)
+- [backlog-obsidian](/b/backlog-obsidian.md)
+- [limpeza-geral](/l/limpeza-geral.md)
 
 ## Dezembro Semana 5
 
