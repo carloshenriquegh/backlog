@@ -6,7 +6,7 @@
 
 ```dataviewjs
 const now = new Date();
-dv.paragraph(" " + now.toLocaleString());
+dv.header("Data de hoje: " + now.toLocaleString());
 ```
 # Agosto
 ## Agosto Semana 1
