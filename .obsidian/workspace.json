@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-09-1º.md",
+                "file": "s/saude-prep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-1º"
+              "title": "saude-prep"
             }
           }
         ],
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-09-1º.md",
+                "file": "s/saude-prep.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -228,8 +228,10 @@
   },
   "active": "b44ae18ba9843d43",
   "lastOpenFiles": [
-    "mermaid/mermaid-teste1.md",
+    "a/agenda26.md",
+    "n/nucleo-laboratorio-dina.md",
     "dailynote/2026-09-1º.md",
+    "mermaid/mermaid-teste1.md",
     "dailynote/2026-08-31º.md",
     "e/excalidraw-doc.md",
     "e/excalidraw-darktheme-colorfix.md",
@@ -237,7 +239,6 @@
     "e/Sem título.canvas",
     "mermaid/mermaid-etc.md",
     "mermaid/mermaid.md",
-    "a/agenda26.md",
     "a/admin-balanço.md",
     "java/java-intro-fernandakipper.md",
     "Sem título.md",
@@ -254,7 +255,6 @@
     "dailynote/2026-08-28º.md",
     "dailynote/2026-08-27º.md",
     "dailynote/2026-08-25º.md",
-    "n/nucleo-laboratorio-dina.md",
     "img",
     "resources-offlink/thinking-piramid.jpg",
     "resources-offlink/roadmapDOTsh.jpg",
