@@ -25,12 +25,14 @@
             "id": "b44ae18ba9843d43",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "e/excalidraw-20260831-2058.excalidraw.md"
+                "file": "e/excalidraw-darktheme-colorfix.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "excalidraw-20260831-2058.excalidraw"
+              "icon": "lucide-file",
+              "title": "excalidraw-darktheme-colorfix"
             }
           }
         ],
@@ -99,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "e/excalidraw-20260831-2058.excalidraw.md",
+                "file": "e/excalidraw-darktheme-colorfix.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -227,6 +229,7 @@
   "active": "b44ae18ba9843d43",
   "lastOpenFiles": [
     "e/excalidraw-doc.md",
+    "e/excalidraw-darktheme-colorfix.md",
     "e/excalidraw-20260831-2058.excalidraw.md",
     "e/Sem título.canvas",
     "mermaid/mermaid-teste1.md",
@@ -252,7 +255,6 @@
     "dailynote/2026-08-25º.md",
     "n/nucleo-laboratorio-dina.md",
     "dailynote/2026-08-26º.md",
-    "p/protocol-aantiparalisia.md",
     "img",
     "resources-offlink/thinking-piramid.jpg",
     "resources-offlink/roadmapDOTsh.jpg",
