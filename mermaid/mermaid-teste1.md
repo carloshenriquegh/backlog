@@ -15,7 +15,7 @@ flowchart TD
   ---
 
 ```mermaid
-
+---
 config:
   treeView:
     showIcons: true
