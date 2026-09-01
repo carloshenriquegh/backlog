@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-08-31º.md",
+                "file": "mermaid/mermaid-teste1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-31º"
+              "title": "mermaid-teste1"
             }
           }
         ],
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-08-31º.md",
+                "file": "mermaid/mermaid-teste1.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -222,11 +222,13 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "b44ae18ba9843d43",
   "lastOpenFiles": [
+    "dailynote/2026-08-31º.md",
     "e/excalidraw-doc.md",
     "e/excalidraw-darktheme-colorfix.md",
     "e/excalidraw-20260831-2058.excalidraw.md",
@@ -240,7 +242,6 @@
     "Sem título.md",
     "q/quarto.md",
     "l/limpeza-geral.md",
-    "dailynote/2026-08-31º.md",
     "a/admin-bdb.md",
     "a/admin-provadevida.md",
     "a/agenda.md",
