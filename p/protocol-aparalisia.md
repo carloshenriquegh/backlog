@@ -61,4 +61,4 @@ Sinto que apaguei tudo o que poderia ter apagado e a necessidade de incluir um l
 
 20260826 1839 ! (20260902) Consegui atualizar a nota diária com um modelo simples que precisa de copiar as atividades do dia anterior para completar as todas as entradas, o que força uma revisão. 
 
-# 20260802 Observação sobre as entradas
+# 20260802 Observação sobre o nível de abstração das entradas
