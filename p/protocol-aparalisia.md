@@ -1,4 +1,7 @@
+# notas de atualização
 
+> [!Note] Notas de atualização 2026
+> As notas de atualização devem entrar aqui.
 # legenda 
 
 (?) é uma pergunta. Deve ser a ignição suficiente para a ação (empenho) do trabalho intelectual.
@@ -48,7 +51,7 @@ Sinto que apaguei tudo o que poderia ter apagado e a necessidade de incluir um l
 
 É como se tivesse tirado um peso das minhas costas e sinto um certo alívio. Como se agora eu pudesse começar o que eu preciso. Há pequenas notas para serem criadas e o ajuste da nota diaria.
 
-# 20260826 
+# 20260826 dailynotes
 
 20260826 1831 ? eu consigo terminar ainda hoje de atualizar o modelo da nota diária de acordo com a anotação em papel? Eu já sei das seções principais com base no metodo de lembrete com base no vídeo do Galego *[Como eu parei de procastinar](https://www.youtube.com/watch?v=bDdmfrLgLaw)*.
 
@@ -58,3 +61,4 @@ Sinto que apaguei tudo o que poderia ter apagado e a necessidade de incluir um l
 
 20260826 1839 ! (20260902) Consegui atualizar a nota diária com um modelo simples que precisa de copiar as atividades do dia anterior para completar as todas as entradas, o que força uma revisão. 
 
+# 20260802 Observação sobre as entradas
