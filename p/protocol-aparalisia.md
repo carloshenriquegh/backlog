@@ -56,5 +56,5 @@ Sinto que apaguei tudo o que poderia ter apagado e a necessidade de incluir um l
 
 20260826 1836 + Me sinto capaz e sem resistêncas para rever tudo o que eu escrevi no papel (2 folhas), reservar as seções que vou precisar no papel (7 linhas com uma divisória para lembretes no final da folha?). Preciso de um template simples com compartimentos que não causem sobrecarga com a leitura. E se meu ímpeto mercurial em direção a produtividade conseguir aproveitar o todo ou grande parte de tamanha iniciativa estarei em um novo nível em direção ao meu objetivo.
 
-20260826 1839 !
+20260826 1839 ! (20260902) Consegui atualizar a nota diária com um modelo simples que precisa de copiar as atividades do dia anterior para completar as todas as entradas, o que força uma revisão. 
 

@@ -67,9 +67,10 @@ ___
 ## Setembro Semana 1
 
 AGO 30 DOM 
-==AGO 31 SEG==
+AGO 31 SEG
 1 TER
-2 QUA
+`2 QUA`
+- deposito banco
 3 QUI
 - [social-viagem](/s/social-viagem.md)
 4 SEX
