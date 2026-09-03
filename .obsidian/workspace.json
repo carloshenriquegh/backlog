@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "d/diario-esquecido-fragmentos.md",
+                "file": "dailynote/2026-09-3º.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "diario-esquecido-fragmentos"
+              "title": "2026-09-3º"
             }
           },
           {
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "d/diario-esquecido-fragmentos.md",
+                "file": "dailynote/2026-09-3º.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -227,10 +227,23 @@
   },
   "active": "6fa864633818198e",
   "lastOpenFiles": [
-    "dailynote/2025-10-xx Decaimento.md",
-    "d/diario-esquecido-fragmentos.md",
-    "d/discord-profile.md",
+    "dailynote/2026-09-2º.md",
+    "dailynote/2026-09-1º.md",
+    "dailynote/2026-08-31º.md",
     "dailynote/2026-09-3º.md",
+    "dailynote/2026-08-30º.md",
+    "dailynote/2026-08-25º.md",
+    "dailynote/2026-08-28º.md",
+    "dailynote/2026-08-27º.md",
+    "d/diario-esquecido-fragmentos.md",
+    "dailynote/2026-06-18 Farever.md",
+    "d/discord-alerts-callouts.md",
+    "dailynote/2026-05-13 DiabloIV.md",
+    "p/procastinar-rascunho.md",
+    "dailynote/2026-03-12 Procrastinar II.md",
+    "dailynote/2026-03-12 Procrastinar.md",
+    "dailynote/2025-10-xx Decaimento.md",
+    "d/discord-profile.md",
     "g/github-markdown.md",
     "g/github-doc.md",
     "g/github-carloshenriquecrx.md",
@@ -239,21 +252,8 @@
     "e/excalidraw-doc.md",
     "a/admin-balanço.md",
     "d/desodorantes.md",
-    "dailynote/2026-09-2º.md",
     "p/protocol-agenda26.md",
-    "p/protocol-aparalisia.md",
-    "a/agenda26.md",
-    "s/saude-prep.md",
-    "dailynote/2026-09-1º.md",
-    "n/nucleo-laboratorio-dina.md",
-    "mermaid/mermaid-teste1.md",
-    "dailynote/2026-08-31º.md",
-    "e/excalidraw-darktheme-colorfix.md",
-    "e/excalidraw-20260831-2058.excalidraw.md",
     "e/Sem título.canvas",
-    "mermaid/mermaid-etc.md",
-    "mermaid/mermaid.md",
-    "java/java-intro-fernandakipper.md",
     "img",
     "resources-offlink/thinking-piramid.jpg",
     "resources-offlink/roadmapDOTsh.jpg",
