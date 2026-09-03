@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "g/github-markdown.md",
+                "file": "dailynote/2025-10-xx Decaimento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "github-markdown"
+              "title": "2025-10-xx Decaimento"
             }
           },
           {
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "g/github-markdown.md",
+                "file": "dailynote/2025-10-xx Decaimento.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -227,13 +227,15 @@
   },
   "active": "6fa864633818198e",
   "lastOpenFiles": [
+    "d/diario-esquecido-fragmentos.md",
+    "d/discord-profile.md",
+    "dailynote/2026-09-3º.md",
+    "g/github-markdown.md",
     "g/github-doc.md",
     "g/github-carloshenriquecrx.md",
     "g/git-tree.md",
-    "g/github-markdown.md",
     "g/git-authsshkey.md",
     "e/excalidraw-doc.md",
-    "dailynote/2026-09-3º.md",
     "a/admin-balanço.md",
     "d/desodorantes.md",
     "dailynote/2026-09-2º.md",
@@ -252,8 +254,6 @@
     "mermaid/mermaid.md",
     "java/java-intro-fernandakipper.md",
     "Sem título.md",
-    "q/quarto.md",
-    "l/limpeza-geral.md",
     "img",
     "resources-offlink/thinking-piramid.jpg",
     "resources-offlink/roadmapDOTsh.jpg",
