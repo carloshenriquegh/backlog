@@ -71,7 +71,7 @@ AGO 31 SEG
 1 TER
 `2 QUA`
 - deposito banco
-3 QUI
+`3 QUI`
 - [social-viagem](/s/social-viagem.md)
 4 SEX
 - 8h00 [saude-sae](/s/saude-sae.md)
