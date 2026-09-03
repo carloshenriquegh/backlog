@@ -3,6 +3,6 @@
 - Verifique se ele já é beneficiário pix para facilitar o pagamento
 - levar agua;
 - levar toalha;
-- levar sabao e agua boricada;
+- levar sabao e `agua boricada;`
 - `levar itens 3x;`
 - `levar documentos sae. A citar ciclon, aplicações bzt, identidade (carteira) e cartão vacinação (?)`
