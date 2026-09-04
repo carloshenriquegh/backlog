@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "d/desodorantes.md",
+                "file": "s/saude-prep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "desodorantes"
+              "title": "saude-prep"
             }
           }
         ]
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "d/desodorantes.md",
+                "file": "s/saude-prep.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -213,9 +213,10 @@
   },
   "active": "b44ae18ba9843d43",
   "lastOpenFiles": [
+    "a/agenda26.md",
+    "d/desodorantes.md",
     "dailynote/2026-09-3º.md",
     "s/social-viagem.md",
-    "a/agenda26.md",
     "dailynote/2026-09-2º.md",
     "dailynote/2026-09-1º.md",
     "dailynote/2026-08-31º.md",
@@ -238,7 +239,6 @@
     "g/git-tree.md",
     "g/git-authsshkey.md",
     "e/excalidraw-doc.md",
-    "a/admin-balanço.md",
     "e/Sem título.canvas",
     "img",
     "resources-offlink/thinking-piramid.jpg",
