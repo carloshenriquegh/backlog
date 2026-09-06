@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-09-6º.md",
+                "file": "s/saude-sae.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-6º"
+              "title": "saude-sae"
             }
           }
         ]
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-09-6º.md",
+                "file": "s/saude-sae.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -213,11 +213,11 @@
   },
   "active": "b44ae18ba9843d43",
   "lastOpenFiles": [
-    "dailynote/2026-09-5º.md",
-    "dailynote/2026-09-6º.md",
-    "dailynote/2026-09-4º.md",
-    "s/saude-prep.md",
     "a/agenda26.md",
+    "s/saude-prep.md",
+    "dailynote/2026-09-6º.md",
+    "dailynote/2026-09-5º.md",
+    "dailynote/2026-09-4º.md",
     "d/desodorantes.md",
     "dailynote/2026-09-3º.md",
     "s/social-viagem.md",

@@ -2,7 +2,7 @@
 
 (benzetacil)
 040926 - Consulta com Dr. Francisco 8h00 para verificar carga/cd4
-
+- 1072 cd4 / indetectavel
 # Extra (glandial)
 
 ## 2026-03-08th Dermatite I
